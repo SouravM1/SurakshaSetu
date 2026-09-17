@@ -1,0 +1,901 @@
+emergency_type,description,priority
+Accident,A catastrophic road accident occurred in the city center during the evening. People are trapped and critically injured.,Critical
+Storm,Strong winds are affecting near the bridge during the afternoon. No major damage has been reported.,Low
+Accident,A vehicle has overturned after an accident in the city center during the night. People are trapped inside.,High
+Accident,A minor road accident occurred near the shopping complex during the afternoon. No serious injuries have been reported.,Low
+Flood,Rapidly rising water is threatening homes near the hospital about ten minutes ago. Immediate rescue support is needed.,High
+Earthquake,Severe earthquake damage has affected multiple buildings near the school during the evening. Rescue teams are urgently needed.,Critical
+Storm,Heavy rainfall and strong winds are disrupting transportation near the railway station during the morning.,Medium
+Flood,Rainwater has entered a small part of the area near the shopping complex about ten minutes ago. No injuries are reported.,Low
+Earthquake,A powerful earthquake has caused widespread destruction near the bus stand during the night. Many people may be trapped.,Critical
+Flood,Flood water has entered some houses near the highway around twenty minutes ago. People are moving to safer areas.,Medium
+Flood,A serious flood has affected in the city center during the morning. Residents are struggling to evacuate.,High
+Flood,Minor waterlogging was reported near the school about ten minutes ago. Residents are able to move around.,Low
+Accident,A catastrophic road accident occurred near the office area during the afternoon. People are trapped and critically injured.,Critical
+Storm,A storm is passing through near the office area around twenty minutes ago. Residents are advised to stay indoors.,Low
+Accident,A vehicle crashed into another vehicle near the office area a few minutes ago. Several people have minor injuries.,Medium
+Earthquake,Minor ground shaking occurred near the main road during the morning. No major problems are visible.,Low
+Earthquake,Minor ground shaking occurred in the residential area around twenty minutes ago. No major problems are visible.,Low
+Fire,A severe fire is out of control near the highway during the evening. Multiple buildings and people are in immediate danger.,Critical
+Crime,A serious armed crime has been reported near the shopping complex during the morning. The suspect may still be dangerous.,Critical
+Storm,Extreme storm conditions have put many residents in immediate danger near the hospital during the evening.,Critical
+Accident,A high-speed collision happened near the railway station less than one hour ago. Multiple injured people require medical help.,High
+Earthquake,A severe earthquake has caused casualties and collapsed buildings in a crowded street about ten minutes ago. Emergency rescue is critical.,Critical
+Crime,A serious criminal incident was reported near the bus stand during the morning. Immediate police response is needed.,High
+Medical,Someone has collapsed in the nearby village less than one hour ago. The person requires urgent medical attention.,High
+Earthquake,Multiple structures have collapsed after a major earthquake near the shopping complex during the morning. Immediate rescue is required.,Critical
+Fire,A minor fire started in near the market during the night. Nearby residents are monitoring the situation.,Low
+Flood,A major flood has completely blocked roads near the bus stand about ten minutes ago. Many residents require immediate evacuation.,Critical
+Crime,A violent confrontation is taking place near the main road during the night. Nearby people are in danger.,High
+Earthquake,Strong earthquake activity has blocked roads near the railway station during the morning. Emergency response is needed.,High
+Flood,Minor waterlogging was reported near the school during the afternoon. Residents are able to move around.,Low
+Other,A major incident has placed multiple people in immediate danger near the bus stand less than one hour ago.,Critical
+Crime,A person was attacked near the bus stand a few minutes ago. The suspect may still be nearby.,High
+Flood,Drainage is blocked and water is accumulating near the market a few minutes ago. The situation is currently manageable.,Low
+Storm,Moderate storm activity is affecting in the nearby village around twenty minutes ago. No injuries are reported.,Low
+Landslide,Heavy soil movement has damaged roads in a residential building during the afternoon. Emergency assistance is needed.,High
+Flood,A large area is underwater near the bus stand less than one hour ago. Multiple people are stranded and in immediate danger.,Critical
+Flood,Flooding has cut off access to near the office area during the morning. Several residents need emergency assistance.,High
+Earthquake,A powerful earthquake has caused widespread destruction near the railway station around twenty minutes ago. Many people may be trapped.,Critical
+Other,A critical public safety situation is developing near the shopping complex a few minutes ago. Immediate emergency response is needed.,Critical
+Medical,Someone has collapsed near the bridge earlier today. The person requires urgent medical attention.,High
+Crime,Multiple people are being threatened during a violent incident near the hospital around twenty minutes ago. Emergency police response is required.,Critical
+Other,A life-threatening emergency is affecting near the market during the night. Immediate rescue and emergency response are required.,Critical
+Storm,A powerful storm is affecting in the nearby village about ten minutes ago. Residents are being advised to evacuate.,High
+Flood,"Water has collected on the road near the bridge during the night, but traffic is still moving slowly.",Low
+Flood,Minor waterlogging was reported near the main road during the night. Residents are able to move around.,Low
+Storm,Moderate storm activity is affecting in a crowded street during the evening. No injuries are reported.,Low
+Other,A minor emergency situation was reported near the hospital less than one hour ago. The situation is currently stable.,Low
+Storm,A powerful storm is affecting near the bus stand a few minutes ago. Residents are being advised to evacuate.,High
+Other,A major safety problem is affecting near the highway around twenty minutes ago. People are being moved to a safer area.,High
+Earthquake,Strong shaking was reported near the market around twenty minutes ago. Some buildings have visible damage.,Medium
+Earthquake,An earthquake caused minor damage near the railway station during the night. Residents need assistance.,Medium
+Fire,A vehicle and nearby structure are on fire in the residential area earlier today. Emergency assistance is urgently needed.,High
+Fire,A building is fully engulfed in flames near the school during the evening. People are trapped and require immediate rescue.,Critical
+Flood,Water levels have increased significantly near the bridge earlier today. Residents are requesting assistance.,Medium
+Fire,A large fire is spreading rapidly near the railway station a few minutes ago. Several people are trying to evacuate.,High
+Accident,A high-speed collision happened near the market less than one hour ago. Multiple injured people require medical help.,High
+Earthquake,A weak earthquake was reported in the city center during the afternoon. The situation appears stable.,Low
+Medical,A person is having difficulty walking and needs medical assistance near the office area during the afternoon.,Medium
+Fire,A minor fire incident occurred near the school a few minutes ago. People nearby have moved away from the area.,Low
+Flood,A serious flood has affected near the market a few minutes ago. Residents are struggling to evacuate.,High
+Medical,A person has suffered a serious medical emergency near the highway about ten minutes ago. Immediate medical assistance is needed.,High
+Fire,An electrical fire is burning in the residential area during the evening. Nearby residents are requesting help.,Medium
+Accident,A vehicle has overturned after an accident near the school earlier today. People are trapped inside.,High
+Fire,A vehicle and nearby structure are on fire near the shopping complex about ten minutes ago. Emergency assistance is urgently needed.,High
+Accident,A vehicle has overturned after an accident near the bridge during the morning. People are trapped inside.,High
+Medical,A serious medical condition was reported near the bridge around twenty minutes ago. Emergency assistance is required.,High
+Crime,A violent attack involving multiple people is occurring in a crowded street about ten minutes ago. People are in immediate danger.,Critical
+Flood,A moderate flood is affecting in a residential building around twenty minutes ago. Transportation is being disrupted.,Medium
+Flood,A serious flood has affected in the city center during the afternoon. Residents are struggling to evacuate.,High
+Landslide,A large landslide has blocked the main road near the highway about ten minutes ago. Several people are stranded.,High
+Flood,Flood water has entered several streets in the residential area during the morning. Movement is becoming difficult.,Medium
+Other,A public safety problem was reported in the nearby village less than one hour ago. Some assistance is required.,Medium
+Fire,A fire has started near the market a few minutes ago. Flames are visible and nearby people are moving away.,Medium
+Fire,A massive fire is spreading across several buildings in the city center earlier today. Many people are trapped inside.,Critical
+Crime,A violent confrontation is taking place in the city center about ten minutes ago. Nearby people are in danger.,High
+Earthquake,A strong earthquake has caused significant damage in a residential building around twenty minutes ago. Several buildings are affected.,High
+Fire,A large fire has spread to nearby rooms near the shopping complex during the night. Multiple people may be at risk.,High
+Fire,A massive fire is spreading across several buildings near the railway station less than one hour ago. Many people are trapped inside.,Critical
+Fire,A fire has started near the bridge about ten minutes ago. Flames are visible and nearby people are moving away.,Medium
+Medical,A person needs routine medical assistance near the bridge about ten minutes ago. No immediate danger is reported.,Low
+Medical,A person is unconscious but breathing in the city center during the morning. Immediate medical support is needed.,High
+Crime,Suspicious behavior was noticed in the nearby village during the morning. Residents are requesting police assistance.,Low
+Earthquake,Moderate earthquake activity affected near the highway during the night. Roads may be partially blocked.,Medium
+Storm,Strong winds have damaged buildings and trees near the office area during the morning. People need assistance.,High
+Crime,Suspicious behavior was noticed near the railway station during the afternoon. Residents are requesting police assistance.,Low
+Other,A local emergency situation is developing near the railway station a few minutes ago. Residents need support.,Medium
+Earthquake,Moderate earthquake shaking was felt near the bus stand during the evening. Some objects have fallen.,Medium
+Storm,Extreme storm conditions have put many residents in immediate danger in the residential area about ten minutes ago.,Critical
+Crime,An armed attacker is threatening people near the railway station about ten minutes ago. Immediate police intervention is required.,Critical
+Crime,A violent attack involving multiple people is occurring in the residential area during the evening. People are in immediate danger.,Critical
+Storm,Extreme storm conditions have put many residents in immediate danger near the school around twenty minutes ago.,Critical
+Flood,Flood water has entered several streets near the hospital during the night. Movement is becoming difficult.,Medium
+Crime,A serious armed crime has been reported near the office area around twenty minutes ago. The suspect may still be dangerous.,Critical
+Accident,A motorcycle slipped and fell in the city center a few minutes ago. The rider has minor injuries.,Low
+Fire,A vehicle and nearby structure are on fire in a crowded street during the afternoon. Emergency assistance is urgently needed.,High
+Fire,A small fire was noticed in near the highway during the afternoon. Smoke is visible but the situation appears contained.,Low
+Storm,A powerful storm is affecting in the city center a few minutes ago. Residents are being advised to evacuate.,High
+Medical,A person is unconscious and not responding near the market during the afternoon. Immediate emergency medical assistance is required.,Critical
+Earthquake,Heavy shaking damaged multiple structures near the market around twenty minutes ago. People need emergency assistance.,High
+Flood,Drainage is blocked and water is accumulating near the highway during the night. The situation is currently manageable.,Low
+Fire,A small fire was noticed in near the bridge during the night. Smoke is visible but the situation appears contained.,Low
+Accident,A major crash has left multiple people trapped near the bridge during the evening. Immediate rescue is required.,Critical
+Accident,A vehicle has overturned after an accident near the railway station during the night. People are trapped inside.,High
+Other,A serious incident is threatening residents near the highway a few minutes ago. Immediate response is required.,High
+Flood,Water levels have increased significantly in a crowded street around twenty minutes ago. Residents are requesting assistance.,Medium
+Earthquake,Moderate earthquake shaking was felt in a residential building during the night. Some objects have fallen.,Medium
+Storm,A moderate storm has damaged property near the shopping complex during the afternoon. Emergency assistance is requested.,Medium
+Earthquake,Moderate earthquake activity affected near the main road during the morning. Roads may be partially blocked.,Medium
+Storm,Wind speeds have increased near the hospital about ten minutes ago. Minor branches have fallen.,Low
+Accident,Several vehicles were involved in a severe collision near the bus stand during the morning. Multiple victims require immediate rescue.,Critical
+Other,A critical public safety situation is developing in a crowded street during the morning. Immediate emergency response is needed.,Critical
+Fire,A large fire is spreading rapidly near the highway during the night. Several people are trying to evacuate.,High
+Other,A critical public safety situation is developing near the shopping complex less than one hour ago. Immediate emergency response is needed.,Critical
+Other,A major incident has placed multiple people in immediate danger in the nearby village less than one hour ago.,Critical
+Flood,Minor waterlogging was reported in the city center about ten minutes ago. Residents are able to move around.,Low
+Earthquake,A small earthquake was felt near the bus stand during the afternoon. Buildings appear unaffected.,Low
+Earthquake,Severe earthquake damage has affected multiple buildings in the residential area around twenty minutes ago. Rescue teams are urgently needed.,Critical
+Other,A small obstruction is affecting the area near the bus stand earlier today. Assistance may be required.,Low
+Other,A critical public safety situation is developing near the market less than one hour ago. Immediate emergency response is needed.,Critical
+Crime,A theft has been reported in the city center earlier today. Police assistance is requested.,Medium
+Storm,Storm conditions are worsening in a crowded street around twenty minutes ago. Several areas are experiencing power problems.,Medium
+Earthquake,Several buildings were damaged by an earthquake near the railway station during the afternoon. Residents are evacuating.,High
+Landslide,A major landslide has damaged the road and nearby property in the city center during the morning.,High
+Other,A dangerous large-scale incident has occurred near the highway a few minutes ago. People are trapped and require urgent help.,Critical
+Crime,An armed attacker is threatening people near the school earlier today. Immediate police intervention is required.,Critical
+Earthquake,A major earthquake has caused building damage near the highway during the evening. Some people may be trapped.,High
+Medical,A person needs urgent medical attention in a crowded street a few minutes ago but is currently conscious.,Medium
+Fire,A moderate fire was reported in the nearby village during the night. The fire is spreading slowly.,Medium
+Landslide,A large landslide has blocked the main road in the city center earlier today. Several people are stranded.,High
+Medical,A serious medical condition was reported near the bus stand during the morning. Emergency assistance is required.,High
+Other,A minor incident is affecting near the highway about ten minutes ago. The area remains accessible.,Low
+Accident,A road accident involving two vehicles occurred near the highway around twenty minutes ago. Some people have injuries.,Medium
+Earthquake,A major earthquake has caused building damage near the railway station around twenty minutes ago. Some people may be trapped.,High
+Storm,A severe storm is causing major damage in the residential area about ten minutes ago. Several roads are blocked.,High
+Accident,A major crash has left multiple people trapped near the main road earlier today. Immediate rescue is required.,Critical
+Flood,A moderate flood is affecting near the bus stand earlier today. Transportation is being disrupted.,Medium
+Flood,A major flood has completely blocked roads near the market earlier today. Many residents require immediate evacuation.,Critical
+Crime,A life-threatening criminal attack is occurring near the market during the afternoon. Immediate intervention is urgently needed.,Critical
+Storm,Heavy rain and moderate winds were reported near the bridge about ten minutes ago.,Low
+Storm,Heavy rain and moderate winds were reported near the main road earlier today.,Low
+Medical,A person has stopped responding in the city center around twenty minutes ago. Immediate emergency medical support is required.,Critical
+Medical,A person is experiencing a life-threatening emergency near the bridge less than one hour ago. Immediate medical rescue is needed.,Critical
+Accident,A vehicle crashed into another vehicle near the office area about ten minutes ago. Several people have minor injuries.,Medium
+Storm,A storm is passing through near the market a few minutes ago. Residents are advised to stay indoors.,Low
+Fire,Heavy flames are coming from a building near the railway station during the morning. Nearby residents need immediate assistance.,High
+Medical,A resident has suffered a moderate medical problem near the shopping complex earlier today.,Medium
+Landslide,A massive landslide has buried buildings near the bridge around twenty minutes ago. People are trapped under debris.,Critical
+Other,A major emergency has been reported in the nearby village a few minutes ago. Several people may be affected.,High
+Medical,A severe medical emergency has occurred in the residential area earlier today. The victim is in critical condition.,Critical
+Accident,A serious accident involving multiple vehicles occurred near the highway during the afternoon. Emergency support is needed.,High
+Flood,A serious flood has affected near the hospital during the afternoon. Residents are struggling to evacuate.,High
+Accident,A moderate traffic accident occurred near the main road during the night. Medical assistance is requested.,Medium
+Storm,Storm conditions are worsening near the school during the morning. Several areas are experiencing power problems.,Medium
+Earthquake,Several buildings were damaged by an earthquake in the residential area during the morning. Residents are evacuating.,High
+Other,A dangerous large-scale incident has occurred in the city center during the afternoon. People are trapped and require urgent help.,Critical
+Crime,Multiple people are being threatened during a violent incident near the hospital during the afternoon. Emergency police response is required.,Critical
+Other,A major emergency has been reported near the bus stand during the morning. Several people may be affected.,High
+Earthquake,A major earthquake has caused building damage in a residential building during the afternoon. Some people may be trapped.,High
+Landslide,Heavy soil movement has damaged roads near the bus stand during the night. Emergency assistance is needed.,High
+Earthquake,A mild earthquake was felt near the main road during the evening. No damage has been reported.,Low
+Accident,A road accident involving two vehicles occurred near the office area a few minutes ago. Some people have injuries.,Medium
+Crime,An armed attacker is threatening people in the city center about ten minutes ago. Immediate police intervention is required.,Critical
+Accident,A motorcycle and car collided near the bridge during the evening. One person appears injured.,Medium
+Accident,A motorcycle slipped and fell near the bus stand a few minutes ago. The rider has minor injuries.,Low
+Crime,An armed attacker is threatening people in the nearby village during the night. Immediate police intervention is required.,Critical
+Storm,Extreme storm conditions have put many residents in immediate danger in a residential building earlier today.,Critical
+Flood,Flood water has entered several streets near the shopping complex around twenty minutes ago. Movement is becoming difficult.,Medium
+Other,A local emergency situation is developing near the main road about ten minutes ago. Residents need support.,Medium
+Landslide,A huge landslide has caused widespread destruction near the shopping complex earlier today. People are trapped and require immediate rescue.,Critical
+Fire,A fire has damaged part of a building near the school during the afternoon. The situation requires attention.,Medium
+Accident,A catastrophic road accident occurred near the railway station around twenty minutes ago. People are trapped and critically injured.,Critical
+Earthquake,Multiple structures have collapsed after a major earthquake in a residential building during the morning. Immediate rescue is required.,Critical
+Landslide,Moderate soil movement was reported near the hospital during the morning. Traffic is being disrupted.,Medium
+Fire,A moderate fire was reported near the bus stand during the afternoon. The fire is spreading slowly.,Medium
+Landslide,Moderate soil movement was reported near the railway station during the afternoon. Traffic is being disrupted.,Medium
+Crime,An armed robbery was reported in a crowded street during the night. People nearby are at risk.,High
+Landslide,A small landslide has affected the edge of the road near the main road about ten minutes ago.,Low
+Flood,Rapid flooding has trapped people inside homes near the bus stand earlier today. Emergency rescue is urgently required.,Critical
+Storm,A moderate storm has damaged property near the railway station during the afternoon. Emergency assistance is requested.,Medium
+Other,An incident is disrupting normal activity in the nearby village during the night. Assistance is requested.,Medium
+Landslide,A massive landslide has buried buildings near the railway station during the afternoon. People are trapped under debris.,Critical
+Medical,A person is experiencing severe pain near the market during the night. Medical assistance is needed.,Medium
+Fire,A minor fire started in in the nearby village during the afternoon. Nearby residents are monitoring the situation.,Low
+Landslide,Several rocks and soil have fallen near in a residential building during the evening. Residents are requesting assistance.,Medium
+Flood,Rapid flooding has trapped people inside homes near the main road during the night. Emergency rescue is urgently required.,Critical
+Flood,Flood water has risen above dangerous levels in the residential area a few minutes ago. Several families are stranded.,Critical
+Accident,A high-speed collision happened in a crowded street about ten minutes ago. Multiple injured people require medical help.,High
+Storm,Heavy rainfall and strong winds are disrupting transportation in the residential area during the evening.,Medium
+Crime,A suspicious activity was noticed near the highway during the morning. No immediate threat has been reported.,Low
+Medical,A person has stopped responding near the main road a few minutes ago. Immediate emergency medical support is required.,Critical
+Landslide,Loose soil has moved onto the roadside in the city center around twenty minutes ago.,Low
+Crime,A person was attacked near the bus stand during the night. The suspect may still be nearby.,High
+Flood,Rainwater has entered a small part of the area near the shopping complex earlier today. No injuries are reported.,Low
+Medical,A serious medical condition was reported in the nearby village during the afternoon. Emergency assistance is required.,High
+Flood,Flood water has entered some houses in a crowded street a few minutes ago. People are moving to safer areas.,Medium
+Crime,A robbery attempt was reported near the bridge during the afternoon. The suspect has left the area.,Medium
+Flood,Water has entered many buildings near the school less than one hour ago. Roads are no longer safe for vehicles.,High
+Accident,A severe multi-vehicle accident occurred near the market about ten minutes ago. Several people are critically injured.,Critical
+Fire,A minor fire incident occurred near the market about ten minutes ago. People nearby have moved away from the area.,Low
+Storm,Extreme winds and heavy rain are threatening residents near the office area during the morning. Immediate evacuation is required.,Critical
+Landslide,Minor rockfall was reported near the office area during the afternoon. No injuries are known.,Low
+Landslide,A moderate landslide has affected access to near the hospital around twenty minutes ago.,Medium
+Fire,A minor fire started in near the bridge earlier today. Nearby residents are monitoring the situation.,Low
+Earthquake,A weak earthquake was reported near the main road about ten minutes ago. The situation appears stable.,Low
+Earthquake,An earthquake caused minor damage near the railway station around twenty minutes ago. Residents need assistance.,Medium
+Accident,A motorcycle slipped and fell near the shopping complex a few minutes ago. The rider has minor injuries.,Low
+Accident,A high-speed collision happened near the hospital earlier today. Multiple injured people require medical help.,High
+Earthquake,Multiple structures have collapsed after a major earthquake near the office area earlier today. Immediate rescue is required.,Critical
+Flood,Rapid flooding has trapped people inside homes near the bus stand during the afternoon. Emergency rescue is urgently required.,Critical
+Medical,A person needs routine medical assistance near the highway earlier today. No immediate danger is reported.,Low
+Flood,A major flood has completely blocked roads near the market less than one hour ago. Many residents require immediate evacuation.,Critical
+Storm,Heavy rain and moderate winds were reported near the highway during the afternoon.,Low
+Landslide,A small landslide has affected the edge of the road near the railway station earlier today.,Low
+Crime,A person was attacked in the city center during the night. The suspect may still be nearby.,High
+Fire,A small electrical fire was reported near the railway station less than one hour ago. No injuries have been reported.,Low
+Medical,A serious medical condition was reported near the main road around twenty minutes ago. Emergency assistance is required.,High
+Accident,A vehicle collision has blocked part of the road in the residential area during the evening. Injured people need assistance.,Medium
+Other,A small obstruction is affecting the area near the main road during the morning. Assistance may be required.,Low
+Landslide,A serious landslide has affected several structures near the bridge less than one hour ago. Residents are evacuating.,High
+Landslide,Heavy soil movement has damaged roads in a crowded street less than one hour ago. Emergency assistance is needed.,High
+Accident,A catastrophic road accident occurred near the bridge a few minutes ago. People are trapped and critically injured.,Critical
+Fire,A massive fire is spreading across several buildings near the main road during the night. Many people are trapped inside.,Critical
+Accident,A major collision is blocking the road near the school during the night. Several people need urgent assistance.,High
+Fire,A minor fire started in near the hospital during the morning. Nearby residents are monitoring the situation.,Low
+Storm,A powerful storm is affecting near the highway during the afternoon. Residents are being advised to evacuate.,High
+Medical,Someone reported mild illness near the bus stand during the night. The person is conscious and stable.,Low
+Other,A minor emergency situation was reported near the school during the evening. The situation is currently stable.,Low
+Accident,A vehicle crashed into another vehicle near the bridge during the afternoon. Several people have minor injuries.,Medium
+Landslide,A moderate landslide has affected access to near the shopping complex during the night.,Medium
+Other,A public safety problem was reported in the city center earlier today. Some assistance is required.,Medium
+Medical,A resident has suffered a moderate medical problem in a crowded street during the evening.,Medium
+Landslide,Several rocks and soil have fallen near near the highway during the evening. Residents are requesting assistance.,Medium
+Flood,Rapid flooding has trapped people inside homes near the shopping complex around twenty minutes ago. Emergency rescue is urgently required.,Critical
+Fire,Heavy flames are coming from a building near the railway station a few minutes ago. Nearby residents need immediate assistance.,High
+Storm,Storm conditions are worsening near the hospital around twenty minutes ago. Several areas are experiencing power problems.,Medium
+Fire,Smoke and a small flame were noticed near the market during the evening. The fire has not spread.,Low
+Landslide,A small landslide has affected the edge of the road near the market around twenty minutes ago.,Low
+Earthquake,A mild earthquake was felt near the market earlier today. No damage has been reported.,Low
+Fire,An electrical fire is burning near the highway about ten minutes ago. Nearby residents are requesting help.,Medium
+Storm,Severe weather has caused power failures and property damage in the residential area during the evening.,High
+Other,A serious incident is threatening residents in a residential building around twenty minutes ago. Immediate response is required.,High
+Fire,A fire has damaged part of a building in the nearby village less than one hour ago. The situation requires attention.,Medium
+Medical,A person is experiencing a life-threatening emergency in the nearby village during the evening. Immediate medical rescue is needed.,Critical
+Flood,Minor waterlogging was reported near the bridge earlier today. Residents are able to move around.,Low
+Earthquake,Moderate earthquake activity affected in the residential area about ten minutes ago. Roads may be partially blocked.,Medium
+Crime,A dispute has escalated near the shopping complex during the morning. Authorities are requested to control the situation.,Medium
+Crime,A minor property theft was reported near the main road during the night.,Low
+Storm,A powerful storm is affecting near the bridge a few minutes ago. Residents are being advised to evacuate.,High
+Crime,A serious armed crime has been reported near the railway station earlier today. The suspect may still be dangerous.,Critical
+Storm,A storm has damaged trees near the main road during the morning. Residents need assistance.,Medium
+Flood,A major flood has completely blocked roads in a residential building during the morning. Many residents require immediate evacuation.,Critical
+Flood,Flood water is rising rapidly in the city center less than one hour ago. Several homes are surrounded by water.,High
+Accident,A road accident involving two vehicles occurred near the market less than one hour ago. Some people have injuries.,Medium
+Earthquake,A weak earthquake was reported near the bus stand during the night. The situation appears stable.,Low
+Other,A dangerous large-scale incident has occurred near the hospital during the afternoon. People are trapped and require urgent help.,Critical
+Medical,A severe medical emergency has occurred near the railway station about ten minutes ago. The victim is in critical condition.,Critical
+Fire,A large fire has spread to nearby rooms near the bridge during the morning. Multiple people may be at risk.,High
+Other,A public safety problem was reported in a crowded street during the night. Some assistance is required.,Medium
+Other,A minor public safety issue was reported near the school during the afternoon. No immediate danger is visible.,Low
+Landslide,Severe soil movement has buried multiple structures near the office area around twenty minutes ago. Several people may be trapped.,Critical
+Accident,A high-speed accident has caused multiple serious injuries near the bridge about ten minutes ago. Emergency medical support is urgently needed.,Critical
+Crime,An armed attacker is threatening people in the residential area a few minutes ago. Immediate police intervention is required.,Critical
+Landslide,Severe soil movement has buried multiple structures near the shopping complex during the night. Several people may be trapped.,Critical
+Storm,Strong winds and heavy rain are affecting in a crowded street during the morning. Some roads are blocked.,Medium
+Earthquake,A severe earthquake has caused casualties and collapsed buildings in the residential area during the afternoon. Emergency rescue is critical.,Critical
+Accident,A motorcycle slipped and fell near the hospital during the night. The rider has minor injuries.,Low
+Crime,A robbery attempt was reported near the market around twenty minutes ago. The suspect has left the area.,Medium
+Earthquake,A mild earthquake was felt in the residential area around twenty minutes ago. No damage has been reported.,Low
+Storm,A violent storm is causing widespread destruction in a residential building around twenty minutes ago. People are trapped in damaged buildings.,Critical
+Earthquake,Strong shaking was reported in the residential area during the evening. Some buildings have visible damage.,Medium
+Fire,A small fire was noticed in near the hospital during the morning. Smoke is visible but the situation appears contained.,Low
+Flood,Flooding has cut off access to near the hospital earlier today. Several residents need emergency assistance.,High
+Landslide,Loose soil has moved onto the roadside near the shopping complex during the morning.,Low
+Accident,A vehicle collision has blocked part of the road near the school about ten minutes ago. Injured people need assistance.,Medium
+Other,An incident is disrupting normal activity near the hospital during the afternoon. Assistance is requested.,Medium
+Crime,An armed robbery was reported near the shopping complex about ten minutes ago. People nearby are at risk.,High
+Storm,A powerful storm is affecting near the hospital during the evening. Residents are being advised to evacuate.,High
+Accident,A minor road accident occurred near the hospital earlier today. No serious injuries have been reported.,Low
+Landslide,A landslide has deposited debris on the road near the office area during the morning.,Medium
+Fire,A shop fire was reported near the railway station earlier today. Smoke is increasing and assistance is needed.,Medium
+Storm,Wind speeds have increased in a residential building during the night. Minor branches have fallen.,Low
+Flood,Flood water has risen above dangerous levels in a crowded street earlier today. Several families are stranded.,Critical
+Storm,A major storm has caused widespread damage and injuries in a residential building a few minutes ago. Emergency rescue is urgently needed.,Critical
+Storm,Wind speeds have increased in a residential building a few minutes ago. Minor branches have fallen.,Low
+Crime,A suspicious activity was noticed near the bus stand during the morning. No immediate threat has been reported.,Low
+Crime,Suspicious behavior was noticed in the nearby village during the afternoon. Residents are requesting police assistance.,Low
+Accident,A motorcycle slipped and fell near the hospital during the morning. The rider has minor injuries.,Low
+Other,A minor public safety issue was reported near the hospital around twenty minutes ago. No immediate danger is visible.,Low
+Flood,Water has entered many buildings near the hospital during the night. Roads are no longer safe for vehicles.,High
+Fire,A large fire has spread to nearby rooms in a crowded street about ten minutes ago. Multiple people may be at risk.,High
+Flood,Heavy rain has caused flooding near the office area around twenty minutes ago. Several roads are partially blocked.,Medium
+Fire,A vehicle and nearby structure are on fire near the office area around twenty minutes ago. Emergency assistance is urgently needed.,High
+Storm,A storm is passing through near the school a few minutes ago. Residents are advised to stay indoors.,Low
+Flood,Flood water has entered some houses in the residential area a few minutes ago. People are moving to safer areas.,Medium
+Storm,A storm is passing through near the shopping complex about ten minutes ago. Residents are advised to stay indoors.,Low
+Accident,A small vehicle collision happened in a crowded street during the evening. Traffic is moving slowly.,Low
+Medical,A person has suffered a serious medical emergency in a crowded street during the evening. Immediate medical assistance is needed.,High
+Fire,A fire has started near the highway around twenty minutes ago. Flames are visible and nearby people are moving away.,Medium
+Other,A serious public safety incident is affecting near the highway a few minutes ago. Immediate assistance is needed.,High
+Flood,A moderate flood is affecting near the main road during the morning. Transportation is being disrupted.,Medium
+Earthquake,A severe earthquake has caused casualties and collapsed buildings near the main road during the morning. Emergency rescue is critical.,Critical
+Flood,Flood water has entered some houses near the market less than one hour ago. People are moving to safer areas.,Medium
+Medical,Someone is in a life-threatening medical condition in the residential area about ten minutes ago. Urgent medical intervention is needed.,Critical
+Flood,Water has entered many buildings near the main road during the afternoon. Roads are no longer safe for vehicles.,High
+Medical,A person needs urgent medical attention near the main road during the evening but is currently conscious.,Medium
+Landslide,A massive landslide has buried buildings in a crowded street during the afternoon. People are trapped under debris.,Critical
+Medical,A severe medical emergency has occurred near the hospital earlier today. The victim is in critical condition.,Critical
+Landslide,A small amount of soil has fallen near near the main road earlier today. The road remains partially usable.,Low
+Accident,A vehicle has overturned after an accident near the hospital during the evening. People are trapped inside.,High
+Medical,Someone reported mild illness near the hospital during the afternoon. The person is conscious and stable.,Low
+Accident,A catastrophic road accident occurred near the school during the evening. People are trapped and critically injured.,Critical
+Landslide,A serious landslide has affected several structures in the city center around twenty minutes ago. Residents are evacuating.,High
+Medical,A person needs routine medical assistance in the city center during the morning. No immediate danger is reported.,Low
+Storm,A severe storm is causing major damage near the bridge during the afternoon. Several roads are blocked.,High
+Earthquake,Moderate earthquake activity affected near the railway station earlier today. Roads may be partially blocked.,Medium
+Crime,An armed attacker is threatening people in the residential area earlier today. Immediate police intervention is required.,Critical
+Crime,An armed robbery was reported in the residential area during the afternoon. People nearby are at risk.,High
+Crime,A dispute has escalated near the market less than one hour ago. Authorities are requested to control the situation.,Medium
+Flood,Flood water has risen above dangerous levels near the bus stand about ten minutes ago. Several families are stranded.,Critical
+Medical,A resident is experiencing mild symptoms near the railway station during the night. Assistance is requested.,Low
+Earthquake,Moderate earthquake shaking was felt near the bridge about ten minutes ago. Some objects have fallen.,Medium
+Flood,"Water has collected on the road near the main road during the evening, but traffic is still moving slowly.",Low
+Earthquake,A major earthquake has caused building damage in a crowded street around twenty minutes ago. Some people may be trapped.,High
+Storm,A major storm has caused widespread damage and injuries in a crowded street about ten minutes ago. Emergency rescue is urgently needed.,Critical
+Fire,A fire has damaged part of a building in the city center during the morning. The situation requires attention.,Medium
+Crime,A property break-in occurred near the highway during the afternoon. Police investigation is required.,Medium
+Crime,A dispute has escalated near the main road earlier today. Authorities are requested to control the situation.,Medium
+Medical,Someone is in a life-threatening medical condition in the nearby village about ten minutes ago. Urgent medical intervention is needed.,Critical
+Landslide,Severe soil movement has buried multiple structures in the nearby village during the evening. Several people may be trapped.,Critical
+Other,A major emergency has been reported near the bridge during the morning. Several people may be affected.,High
+Flood,A moderate flood is affecting near the main road about ten minutes ago. Transportation is being disrupted.,Medium
+Landslide,Minor debris was found near near the main road a few minutes ago. The situation is currently manageable.,Low
+Accident,A minor traffic accident was reported in the nearby village during the night. Assistance may be needed.,Low
+Landslide,Loose soil has moved onto the roadside in a residential building during the night.,Low
+Storm,A major storm has caused widespread damage and injuries near the bus stand during the night. Emergency rescue is urgently needed.,Critical
+Accident,A motorcycle and car collided in a residential building during the afternoon. One person appears injured.,Medium
+Fire,A minor fire started in near the office area during the morning. Nearby residents are monitoring the situation.,Low
+Landslide,Moderate soil movement was reported near the highway during the night. Traffic is being disrupted.,Medium
+Crime,A theft has been reported near the bridge during the morning. Police assistance is requested.,Medium
+Accident,A major crash has left multiple people trapped near the school a few minutes ago. Immediate rescue is required.,Critical
+Flood,Flood water has entered several streets near the railway station during the afternoon. Movement is becoming difficult.,Medium
+Other,A major emergency has been reported in a crowded street during the morning. Several people may be affected.,High
+Landslide,A major landslide has destroyed the road and buried vehicles near the bridge less than one hour ago. Immediate rescue is required.,Critical
+Landslide,A serious landslide has affected several structures near the bus stand during the morning. Residents are evacuating.,High
+Landslide,A landslide has deposited debris on the road in a crowded street about ten minutes ago.,Medium
+Landslide,A major landslide has destroyed the road and buried vehicles near the market during the night. Immediate rescue is required.,Critical
+Earthquake,An earthquake caused minor damage near the shopping complex during the morning. Residents need assistance.,Medium
+Medical,A person is unconscious but breathing in the city center less than one hour ago. Immediate medical support is needed.,High
+Crime,Suspicious behavior was noticed near the railway station less than one hour ago. Residents are requesting police assistance.,Low
+Other,A serious incident is threatening residents near the railway station during the night. Immediate response is required.,High
+Storm,Extreme storm conditions have put many residents in immediate danger in the residential area around twenty minutes ago.,Critical
+Medical,A person is experiencing a life-threatening emergency near the bridge around twenty minutes ago. Immediate medical rescue is needed.,Critical
+Flood,"Water has collected on the road near the bus stand about ten minutes ago, but traffic is still moving slowly.",Low
+Other,A local safety concern was reported in a residential building during the morning. No injuries are known.,Low
+Landslide,Moderate soil movement was reported near the hospital during the night. Traffic is being disrupted.,Medium
+Storm,Wind speeds have increased near the highway less than one hour ago. Minor branches have fallen.,Low
+Flood,Minor waterlogging was reported near the bus stand during the night. Residents are able to move around.,Low
+Fire,A small electrical fire was reported near the school around twenty minutes ago. No injuries have been reported.,Low
+Accident,A high-speed accident has caused multiple serious injuries in the residential area earlier today. Emergency medical support is urgently needed.,Critical
+Fire,A fire has damaged part of a building near the school during the night. The situation requires attention.,Medium
+Earthquake,A severe earthquake has caused casualties and collapsed buildings in the residential area earlier today. Emergency rescue is critical.,Critical
+Crime,A serious criminal incident was reported in a residential building less than one hour ago. Immediate police response is needed.,High
+Earthquake,Moderate earthquake shaking was felt in the city center earlier today. Some objects have fallen.,Medium
+Crime,A life-threatening criminal attack is occurring near the hospital about ten minutes ago. Immediate intervention is urgently needed.,Critical
+Other,A local safety concern was reported near the bridge during the night. No injuries are known.,Low
+Other,A major emergency has been reported near the market about ten minutes ago. Several people may be affected.,High
+Medical,A person has suffered a serious medical emergency in a crowded street during the morning. Immediate medical assistance is needed.,High
+Accident,A motorcycle slipped and fell near the hospital during the afternoon. The rider has minor injuries.,Low
+Accident,A serious road accident occurred near the school less than one hour ago. Several people are injured.,High
+Storm,Extreme storm conditions have put many residents in immediate danger near the market about ten minutes ago.,Critical
+Earthquake,Strong earthquake activity has blocked roads in a residential building during the night. Emergency response is needed.,High
+Landslide,Loose soil has moved onto the roadside in a crowded street during the morning.,Low
+Medical,A person is experiencing a life-threatening emergency in a crowded street during the afternoon. Immediate medical rescue is needed.,Critical
+Fire,A building is fully engulfed in flames near the main road during the night. People are trapped and require immediate rescue.,Critical
+Other,A small obstruction is affecting the area near the highway during the afternoon. Assistance may be required.,Low
+Other,A major emergency has been reported near the school less than one hour ago. Several people may be affected.,High
+Fire,A minor fire started in near the market around twenty minutes ago. Nearby residents are monitoring the situation.,Low
+Landslide,A landslide has deposited debris on the road in the nearby village during the morning.,Medium
+Storm,A severe storm has destroyed buildings and blocked roads near the shopping complex less than one hour ago. Multiple people need rescue.,Critical
+Medical,A person requires basic first aid near the main road during the afternoon. The situation appears stable.,Low
+Crime,A violent incident has occurred near the main road during the morning. Police assistance is urgently required.,High
+Flood,Flood water is rising rapidly in a residential building during the night. Several homes are surrounded by water.,High
+Storm,A moderate storm has damaged property near the school a few minutes ago. Emergency assistance is requested.,Medium
+Fire,Heavy flames are coming from a building near the bridge during the evening. Nearby residents need immediate assistance.,High
+Landslide,A small amount of soil has fallen near in the residential area during the evening. The road remains partially usable.,Low
+Crime,A person reported being threatened near the railway station during the evening. Authorities are needed.,Medium
+Fire,A rapidly spreading fire has trapped residents near the market about ten minutes ago. Immediate evacuation and rescue are required.,Critical
+Accident,A major crash has left multiple people trapped in the residential area earlier today. Immediate rescue is required.,Critical
+Other,A public safety problem was reported near the shopping complex during the night. Some assistance is required.,Medium
+Medical,A person is experiencing severe pain near the hospital earlier today. Medical assistance is needed.,Medium
+Crime,A suspicious person was seen in a residential building earlier today. No violence has been reported.,Low
+Storm,Strong winds and heavy rain are affecting near the school less than one hour ago. Some roads are blocked.,Medium
+Medical,A person is experiencing severe pain in a residential building during the afternoon. Medical assistance is needed.,Medium
+Landslide,A large amount of debris has blocked in a residential building during the evening. People may be trapped nearby.,High
+Landslide,A moderate landslide has affected access to near the hospital during the night.,Medium
+Other,A serious public safety incident is affecting near the school during the evening. Immediate assistance is needed.,High
+Other,A local emergency situation is developing near the market during the night. Residents need support.,Medium
+Accident,A severe multi-vehicle accident occurred in a residential building earlier today. Several people are critically injured.,Critical
+Storm,A storm has damaged trees near the office area around twenty minutes ago. Residents need assistance.,Medium
+Crime,A robbery attempt was reported near the main road during the morning. The suspect has left the area.,Medium
+Landslide,A major landslide has damaged the road and nearby property near the school during the evening.,High
+Storm,Strong winds are affecting near the market during the afternoon. No major damage has been reported.,Low
+Accident,A serious accident involving multiple vehicles occurred near the school during the morning. Emergency support is needed.,High
+Fire,Heavy flames are coming from a building near the highway less than one hour ago. Nearby residents need immediate assistance.,High
+Medical,A person has suffered a serious medical emergency near the bus stand earlier today. Immediate medical assistance is needed.,High
+Storm,Strong winds have damaged buildings and trees in the nearby village during the evening. People need assistance.,High
+Other,A dangerous large-scale incident has occurred in a residential building around twenty minutes ago. People are trapped and require urgent help.,Critical
+Fire,Heavy flames are coming from a building in the nearby village earlier today. Nearby residents need immediate assistance.,High
+Other,A major safety problem is affecting in the city center during the night. People are being moved to a safer area.,High
+Flood,Drainage is blocked and water is accumulating near the shopping complex during the night. The situation is currently manageable.,Low
+Other,An incident is disrupting normal activity in the residential area during the night. Assistance is requested.,Medium
+Other,A moderate safety issue has occurred near the railway station about ten minutes ago. Authorities may be needed.,Medium
+Fire,A serious building fire was reported in a crowded street during the night. Thick smoke is affecting the surrounding area.,High
+Crime,Suspicious behavior was noticed near the shopping complex less than one hour ago. Residents are requesting police assistance.,Low
+Landslide,Several rocks and soil have fallen near in a residential building a few minutes ago. Residents are requesting assistance.,Medium
+Earthquake,Minor ground shaking occurred near the school less than one hour ago. No major problems are visible.,Low
+Crime,A serious criminal incident was reported in the nearby village during the evening. Immediate police response is needed.,High
+Landslide,A huge landslide has caused widespread destruction in the nearby village less than one hour ago. People are trapped and require immediate rescue.,Critical
+Crime,A property break-in occurred near the highway around twenty minutes ago. Police investigation is required.,Medium
+Medical,A person has suffered a serious medical emergency in a residential building during the evening. Immediate medical assistance is needed.,High
+Medical,A person is experiencing severe pain near the main road less than one hour ago. Medical assistance is needed.,Medium
+Crime,A suspicious person was seen near the shopping complex during the morning. No violence has been reported.,Low
+Fire,A building is fully engulfed in flames near the office area during the evening. People are trapped and require immediate rescue.,Critical
+Medical,A person is feeling unwell near the market earlier today. Basic medical assistance may be required.,Low
+Landslide,A landslide has deposited debris on the road near the railway station during the afternoon.,Medium
+Flood,Flood water has risen above dangerous levels in the residential area during the night. Several families are stranded.,Critical
+Earthquake,Minor ground shaking occurred near the school about ten minutes ago. No major problems are visible.,Low
+Crime,A person reported being threatened near the bus stand during the evening. Authorities are needed.,Medium
+Medical,A person needs routine medical assistance in a crowded street around twenty minutes ago. No immediate danger is reported.,Low
+Storm,Strong winds are affecting in a crowded street during the evening. No major damage has been reported.,Low
+Medical,A resident is experiencing mild symptoms near the shopping complex earlier today. Assistance is requested.,Low
+Flood,Flood water has risen above dangerous levels near the bridge about ten minutes ago. Several families are stranded.,Critical
+Medical,A person needs routine medical assistance in the nearby village during the evening. No immediate danger is reported.,Low
+Flood,Flooding has cut off access to near the bridge during the night. Several residents need emergency assistance.,High
+Other,An incident is disrupting normal activity near the hospital about ten minutes ago. Assistance is requested.,Medium
+Accident,A high-speed collision happened in the nearby village during the evening. Multiple injured people require medical help.,High
+Accident,A vehicle has overturned after an accident near the shopping complex during the evening. People are trapped inside.,High
+Medical,A person is having difficulty walking and needs medical assistance near the highway during the evening.,Medium
+Flood,A moderate flood is affecting in the nearby village during the afternoon. Transportation is being disrupted.,Medium
+Crime,An armed attacker is threatening people near the highway earlier today. Immediate police intervention is required.,Critical
+Accident,A road accident involving two vehicles occurred in the nearby village earlier today. Some people have injuries.,Medium
+Earthquake,Strong shaking was reported in the nearby village around twenty minutes ago. Some buildings have visible damage.,Medium
+Landslide,A small amount of soil has fallen near near the hospital less than one hour ago. The road remains partially usable.,Low
+Flood,Rapid flooding has trapped people inside homes near the highway during the night. Emergency rescue is urgently required.,Critical
+Earthquake,A strong earthquake has caused significant damage near the bus stand less than one hour ago. Several buildings are affected.,High
+Storm,Strong winds are affecting near the main road earlier today. No major damage has been reported.,Low
+Other,An incident is disrupting normal activity near the office area during the night. Assistance is requested.,Medium
+Fire,A large fire has spread to nearby rooms near the railway station less than one hour ago. Multiple people may be at risk.,High
+Accident,A major crash has left multiple people trapped near the bridge less than one hour ago. Immediate rescue is required.,Critical
+Landslide,A serious landslide has affected several structures near the bridge during the evening. Residents are evacuating.,High
+Earthquake,Multiple structures have collapsed after a major earthquake near the highway earlier today. Immediate rescue is required.,Critical
+Other,A small obstruction is affecting the area in a crowded street during the night. Assistance may be required.,Low
+Crime,A violent confrontation is taking place near the railway station about ten minutes ago. Nearby people are in danger.,High
+Earthquake,Multiple structures have collapsed after a major earthquake near the main road during the afternoon. Immediate rescue is required.,Critical
+Other,A minor emergency situation was reported near the highway less than one hour ago. The situation is currently stable.,Low
+Storm,Storm conditions are worsening in the city center during the night. Several areas are experiencing power problems.,Medium
+Storm,Moderate storm activity is affecting near the railway station earlier today. No injuries are reported.,Low
+Other,An unexpected incident is affecting near the office area less than one hour ago. People are requesting emergency support.,Medium
+Fire,Smoke and a small flame were noticed in a residential building about ten minutes ago. The fire has not spread.,Low
+Flood,Rapid flooding has trapped people inside homes in the city center less than one hour ago. Emergency rescue is urgently required.,Critical
+Accident,A small vehicle collision happened in a crowded street during the afternoon. Traffic is moving slowly.,Low
+Medical,A resident is experiencing mild symptoms near the bus stand about ten minutes ago. Assistance is requested.,Low
+Accident,A motorcycle and car collided near the main road during the afternoon. One person appears injured.,Medium
+Flood,"Water has collected on the road in a residential building less than one hour ago, but traffic is still moving slowly.",Low
+Crime,An armed robbery was reported near the bus stand during the afternoon. People nearby are at risk.,High
+Medical,A person is feeling unwell in the city center during the evening. Basic medical assistance may be required.,Low
+Medical,Someone is in a life-threatening medical condition near the bus stand earlier today. Urgent medical intervention is needed.,Critical
+Fire,A small electrical fire was reported in a crowded street during the morning. No injuries have been reported.,Low
+Accident,A minor road accident occurred near the bridge during the afternoon. No serious injuries have been reported.,Low
+Accident,A minor traffic accident was reported near the shopping complex less than one hour ago. Assistance may be needed.,Low
+Medical,Someone has suddenly become ill near the school during the night. A medical team is requested.,Medium
+Other,A life-threatening emergency is affecting near the school during the afternoon. Immediate rescue and emergency response are required.,Critical
+Storm,Storm conditions are worsening in the nearby village during the morning. Several areas are experiencing power problems.,Medium
+Fire,A massive fire is spreading across several buildings near the main road during the afternoon. Many people are trapped inside.,Critical
+Landslide,Moderate soil movement was reported near the market during the morning. Traffic is being disrupted.,Medium
+Accident,A small vehicle collision happened near the highway during the night. Traffic is moving slowly.,Low
+Crime,A suspicious activity was noticed near the shopping complex a few minutes ago. No immediate threat has been reported.,Low
+Earthquake,Strong earthquake activity has blocked roads in the city center during the morning. Emergency response is needed.,High
+Other,A critical public safety situation is developing in the residential area earlier today. Immediate emergency response is needed.,Critical
+Accident,A small vehicle collision happened near the main road earlier today. Traffic is moving slowly.,Low
+Accident,A catastrophic road accident occurred in the nearby village about ten minutes ago. People are trapped and critically injured.,Critical
+Flood,Water has entered many buildings in the residential area earlier today. Roads are no longer safe for vehicles.,High
+Fire,A major fire with heavy smoke is threatening multiple buildings near the office area about ten minutes ago. Several people may be injured.,Critical
+Storm,Heavy rain and moderate winds were reported in a crowded street around twenty minutes ago.,Low
+Storm,Strong winds have damaged buildings and trees near the bus stand during the night. People need assistance.,High
+Landslide,Severe soil movement has buried multiple structures near the hospital earlier today. Several people may be trapped.,Critical
+Flood,"Water has collected on the road in the nearby village during the night, but traffic is still moving slowly.",Low
+Other,A dangerous large-scale incident has occurred near the hospital earlier today. People are trapped and require urgent help.,Critical
+Crime,A life-threatening criminal attack is occurring near the office area during the night. Immediate intervention is urgently needed.,Critical
+Storm,A strong storm has made roads dangerous in the residential area during the evening. Emergency response is required.,High
+Landslide,A catastrophic landslide has isolated an entire area near the shopping complex around twenty minutes ago. Rescue teams are urgently needed.,Critical
+Medical,A person needs urgent medical attention in the nearby village earlier today but is currently conscious.,Medium
+Fire,A serious building fire was reported near the office area around twenty minutes ago. Thick smoke is affecting the surrounding area.,High
+Medical,A resident has suffered a moderate medical problem near the office area a few minutes ago.,Medium
+Landslide,Heavy soil movement has damaged roads in the nearby village during the evening. Emergency assistance is needed.,High
+Crime,A person reported being threatened in the residential area during the night. Authorities are needed.,Medium
+Fire,Smoke and a small flame were noticed near the bridge during the morning. The fire has not spread.,Low
+Fire,A large fire has spread to nearby rooms near the main road about ten minutes ago. Multiple people may be at risk.,High
+Earthquake,Moderate earthquake shaking was felt near the market during the afternoon. Some objects have fallen.,Medium
+Crime,A possible theft was reported near the bridge less than one hour ago. The situation appears under control.,Low
+Fire,A minor fire incident occurred near the main road during the night. People nearby have moved away from the area.,Low
+Flood,Water has entered many buildings in the nearby village during the morning. Roads are no longer safe for vehicles.,High
+Other,An incident is disrupting normal activity near the main road earlier today. Assistance is requested.,Medium
+Flood,Flood water is rising rapidly near the railway station during the afternoon. Several homes are surrounded by water.,High
+Landslide,Heavy soil movement has damaged roads near the market earlier today. Emergency assistance is needed.,High
+Earthquake,Light shaking was noticed near the office area during the evening. Residents report no injuries.,Low
+Storm,Heavy rainfall and strong winds are disrupting transportation near the office area about ten minutes ago.,Medium
+Accident,A motorcycle slipped and fell near the school during the afternoon. The rider has minor injuries.,Low
+Other,A local emergency situation is developing near the bus stand during the night. Residents need support.,Medium
+Accident,A road accident involving two vehicles occurred near the highway less than one hour ago. Some people have injuries.,Medium
+Flood,A large area is underwater in a residential building during the morning. Multiple people are stranded and in immediate danger.,Critical
+Earthquake,A mild earthquake was felt in a crowded street during the morning. No damage has been reported.,Low
+Accident,A minor road accident occurred in the residential area around twenty minutes ago. No serious injuries have been reported.,Low
+Other,A local safety concern was reported near the school less than one hour ago. No injuries are known.,Low
+Medical,A serious medical condition was reported in a crowded street during the night. Emergency assistance is required.,High
+Medical,A person needs routine medical assistance in a residential building during the night. No immediate danger is reported.,Low
+Medical,Someone has collapsed near the bus stand during the night. The person requires urgent medical attention.,High
+Flood,Heavy rain has caused flooding near the hospital a few minutes ago. Several roads are partially blocked.,Medium
+Flood,"Water has collected on the road near the highway about ten minutes ago, but traffic is still moving slowly.",Low
+Landslide,Severe soil movement has buried multiple structures near the main road earlier today. Several people may be trapped.,Critical
+Crime,A person reported being threatened in a crowded street during the morning. Authorities are needed.,Medium
+Storm,A severe storm has destroyed buildings and blocked roads in the residential area around twenty minutes ago. Multiple people need rescue.,Critical
+Flood,Drainage is blocked and water is accumulating near the school around twenty minutes ago. The situation is currently manageable.,Low
+Other,A minor emergency situation was reported near the bridge during the morning. The situation is currently stable.,Low
+Fire,A moderate fire was reported near the bridge during the morning. The fire is spreading slowly.,Medium
+Medical,A person is unconscious but breathing near the highway during the morning. Immediate medical support is needed.,High
+Other,A minor emergency situation was reported near the shopping complex less than one hour ago. The situation is currently stable.,Low
+Landslide,A small landslide has affected the edge of the road in a residential building during the evening.,Low
+Crime,An armed robbery was reported near the bridge a few minutes ago. People nearby are at risk.,High
+Crime,A minor property theft was reported in a crowded street during the night.,Low
+Medical,A person is unconscious and not responding near the school during the morning. Immediate emergency medical assistance is required.,Critical
+Crime,An armed robbery was reported near the hospital during the afternoon. People nearby are at risk.,High
+Other,A severe emergency is affecting the area near the school a few minutes ago. Several people require urgent assistance.,Critical
+Earthquake,An earthquake caused minor damage near the office area during the evening. Residents need assistance.,Medium
+Earthquake,Light shaking was noticed near the office area around twenty minutes ago. Residents report no injuries.,Low
+Accident,A vehicle crashed into another vehicle near the office area during the night. Several people have minor injuries.,Medium
+Accident,A major collision is blocking the road near the bus stand during the afternoon. Several people need urgent assistance.,High
+Landslide,Minor debris was found near near the bridge a few minutes ago. The situation is currently manageable.,Low
+Fire,A small fire was noticed in near the railway station during the afternoon. Smoke is visible but the situation appears contained.,Low
+Flood,Drainage is blocked and water is accumulating near the railway station during the afternoon. The situation is currently manageable.,Low
+Earthquake,Severe earthquake damage has affected multiple buildings near the hospital during the evening. Rescue teams are urgently needed.,Critical
+Landslide,Minor rockfall was reported near the office area around twenty minutes ago. No injuries are known.,Low
+Crime,A suspicious activity was noticed near the school during the night. No immediate threat has been reported.,Low
+Fire,A fire has started in the residential area around twenty minutes ago. Flames are visible and nearby people are moving away.,Medium
+Flood,Flooding has cut off access to near the highway during the night. Several residents need emergency assistance.,High
+Medical,A person has suffered a serious medical emergency in the nearby village around twenty minutes ago. Immediate medical assistance is needed.,High
+Accident,A high-speed collision happened near the office area during the evening. Multiple injured people require medical help.,High
+Flood,"Water has collected on the road in a crowded street around twenty minutes ago, but traffic is still moving slowly.",Low
+Storm,A major storm has caused widespread damage and injuries in a residential building during the afternoon. Emergency rescue is urgently needed.,Critical
+Landslide,A moderate landslide has affected access to near the bus stand around twenty minutes ago.,Medium
+Fire,A moderate fire was reported near the bridge during the evening. The fire is spreading slowly.,Medium
+Crime,A property break-in occurred near the bridge about ten minutes ago. Police investigation is required.,Medium
+Earthquake,Minor ground shaking occurred in a residential building less than one hour ago. No major problems are visible.,Low
+Earthquake,Moderate earthquake activity affected near the bridge during the morning. Roads may be partially blocked.,Medium
+Crime,A suspicious activity was noticed near the bus stand about ten minutes ago. No immediate threat has been reported.,Low
+Earthquake,A powerful earthquake has caused widespread destruction in a residential building about ten minutes ago. Many people may be trapped.,Critical
+Other,A local safety concern was reported near the school around twenty minutes ago. No injuries are known.,Low
+Other,A small obstruction is affecting the area in the residential area during the evening. Assistance may be required.,Low
+Landslide,A large landslide has blocked the main road near the hospital during the morning. Several people are stranded.,High
+Crime,A dispute has escalated near the market about ten minutes ago. Authorities are requested to control the situation.,Medium
+Landslide,A major landslide has damaged the road and nearby property near the school less than one hour ago.,High
+Other,A life-threatening emergency is affecting in the nearby village during the evening. Immediate rescue and emergency response are required.,Critical
+Accident,A moderate traffic accident occurred in the nearby village earlier today. Medical assistance is requested.,Medium
+Medical,A person needs routine medical assistance near the highway a few minutes ago. No immediate danger is reported.,Low
+Storm,Storm conditions are worsening in the nearby village during the afternoon. Several areas are experiencing power problems.,Medium
+Landslide,A landslide has blocked part of the road in the city center around twenty minutes ago. Assistance is required.,Medium
+Crime,A suspicious person was seen near the office area during the morning. No violence has been reported.,Low
+Fire,A vehicle and nearby structure are on fire near the market around twenty minutes ago. Emergency assistance is urgently needed.,High
+Other,A minor incident is affecting in a residential building during the evening. The area remains accessible.,Low
+Crime,A theft has been reported in the residential area a few minutes ago. Police assistance is requested.,Medium
+Accident,A motorcycle slipped and fell in a crowded street during the afternoon. The rider has minor injuries.,Low
+Crime,A violent incident has occurred near the highway during the morning. Police assistance is urgently required.,High
+Fire,An electrical fire is burning near the shopping complex during the evening. Nearby residents are requesting help.,Medium
+Other,A major emergency has been reported in a residential building earlier today. Several people may be affected.,High
+Flood,Rapid flooding has trapped people inside homes in the residential area during the evening. Emergency rescue is urgently required.,Critical
+Earthquake,A strong earthquake has caused significant damage near the market during the evening. Several buildings are affected.,High
+Accident,A minor traffic accident was reported in the city center during the evening. Assistance may be needed.,Low
+Flood,"Water has collected on the road in the nearby village during the morning, but traffic is still moving slowly.",Low
+Medical,A person is unconscious but breathing near the office area during the night. Immediate medical support is needed.,High
+Crime,Suspicious behavior was noticed near the highway during the afternoon. Residents are requesting police assistance.,Low
+Landslide,A landslide has blocked part of the road near the main road around twenty minutes ago. Assistance is required.,Medium
+Medical,A severe medical emergency has occurred in the nearby village earlier today. The victim is in critical condition.,Critical
+Medical,A resident has suffered a moderate medical problem near the school during the afternoon.,Medium
+Other,A minor public safety issue was reported near the main road earlier today. No immediate danger is visible.,Low
+Storm,A violent storm is causing widespread destruction near the school less than one hour ago. People are trapped in damaged buildings.,Critical
+Storm,A moderate storm has damaged property near the hospital during the night. Emergency assistance is requested.,Medium
+Medical,A person is experiencing severe pain near the market about ten minutes ago. Medical assistance is needed.,Medium
+Landslide,A small landslide has affected the edge of the road near the shopping complex during the night.,Low
+Flood,Severe flooding has submerged multiple buildings near the office area during the afternoon. People are trapped and need rescue.,Critical
+Medical,A person is feeling unwell near the main road around twenty minutes ago. Basic medical assistance may be required.,Low
+Crime,A life-threatening criminal attack is occurring near the main road during the night. Immediate intervention is urgently needed.,Critical
+Accident,A small vehicle collision happened in the city center around twenty minutes ago. Traffic is moving slowly.,Low
+Medical,A resident has suffered a moderate medical problem near the market during the evening.,Medium
+Landslide,A serious landslide has affected several structures near the office area earlier today. Residents are evacuating.,High
+Flood,Water levels have increased significantly near the shopping complex during the afternoon. Residents are requesting assistance.,Medium
+Landslide,A catastrophic landslide has isolated an entire area near the bridge less than one hour ago. Rescue teams are urgently needed.,Critical
+Medical,A person is having difficulty walking and needs medical assistance near the railway station during the afternoon.,Medium
+Crime,An armed robbery was reported in the residential area earlier today. People nearby are at risk.,High
+Other,A serious public safety incident is affecting near the main road during the afternoon. Immediate assistance is needed.,High
+Storm,A severe storm has destroyed buildings and blocked roads in the residential area during the night. Multiple people need rescue.,Critical
+Medical,A person is having difficulty walking and needs medical assistance near the shopping complex during the night.,Medium
+Crime,A possible theft was reported near the school during the evening. The situation appears under control.,Low
+Other,A small obstruction is affecting the area near the bus stand during the morning. Assistance may be required.,Low
+Medical,A person needs routine medical assistance near the office area less than one hour ago. No immediate danger is reported.,Low
+Flood,Heavy rain has caused flooding near the market less than one hour ago. Several roads are partially blocked.,Medium
+Landslide,Heavy soil movement has damaged roads near the main road during the evening. Emergency assistance is needed.,High
+Crime,A serious criminal incident was reported in the city center during the afternoon. Immediate police response is needed.,High
+Other,A major safety problem is affecting near the market a few minutes ago. People are being moved to a safer area.,High
+Storm,Wind speeds have increased in the nearby village during the night. Minor branches have fallen.,Low
+Earthquake,A weak earthquake was reported in a residential building during the morning. The situation appears stable.,Low
+Storm,A violent storm is causing widespread destruction near the school during the afternoon. People are trapped in damaged buildings.,Critical
+Accident,A serious accident involving multiple vehicles occurred near the school about ten minutes ago. Emergency support is needed.,High
+Storm,A powerful storm is affecting in a residential building around twenty minutes ago. Residents are being advised to evacuate.,High
+Landslide,A small landslide has affected the edge of the road near the shopping complex earlier today.,Low
+Crime,A serious armed crime has been reported near the railway station during the night. The suspect may still be dangerous.,Critical
+Landslide,A large landslide has blocked the main road near the highway during the evening. Several people are stranded.,High
+Crime,A robbery attempt was reported near the office area around twenty minutes ago. The suspect has left the area.,Medium
+Accident,Several vehicles were involved in a severe collision near the school during the afternoon. Multiple victims require immediate rescue.,Critical
+Crime,A theft has been reported near the bridge less than one hour ago. Police assistance is requested.,Medium
+Flood,Flood water is rising rapidly near the bridge during the morning. Several homes are surrounded by water.,High
+Fire,A vehicle and nearby structure are on fire near the railway station about ten minutes ago. Emergency assistance is urgently needed.,High
+Other,A critical public safety situation is developing in the residential area during the night. Immediate emergency response is needed.,Critical
+Earthquake,A small earthquake was felt near the main road less than one hour ago. Buildings appear unaffected.,Low
+Landslide,A landslide has deposited debris on the road in a residential building a few minutes ago.,Medium
+Medical,A person needs routine medical assistance in the nearby village during the afternoon. No immediate danger is reported.,Low
+Accident,A high-speed accident has caused multiple serious injuries near the highway a few minutes ago. Emergency medical support is urgently needed.,Critical
+Flood,A moderate flood is affecting near the market during the morning. Transportation is being disrupted.,Medium
+Storm,A storm has damaged trees near the school during the morning. Residents need assistance.,Medium
+Storm,A severe storm is causing major damage in the residential area during the evening. Several roads are blocked.,High
+Other,A major safety problem is affecting near the market during the afternoon. People are being moved to a safer area.,High
+Earthquake,An earthquake has damaged parts of buildings near the bus stand a few minutes ago.,Medium
+Earthquake,Severe earthquake damage has affected multiple buildings in the city center about ten minutes ago. Rescue teams are urgently needed.,Critical
+Accident,A road accident involving two vehicles occurred near the hospital less than one hour ago. Some people have injuries.,Medium
+Earthquake,Heavy shaking damaged multiple structures near the hospital during the evening. People need emergency assistance.,High
+Fire,A rapidly spreading fire has trapped residents near the office area during the night. Immediate evacuation and rescue are required.,Critical
+Medical,Someone is in a life-threatening medical condition in the city center during the evening. Urgent medical intervention is needed.,Critical
+Other,A critical public safety situation is developing in a residential building during the evening. Immediate emergency response is needed.,Critical
+Accident,Several vehicles were involved in a severe collision near the bus stand about ten minutes ago. Multiple victims require immediate rescue.,Critical
+Other,A minor public safety issue was reported in the city center about ten minutes ago. No immediate danger is visible.,Low
+Medical,A person has stopped responding near the main road during the afternoon. Immediate emergency medical support is required.,Critical
+Medical,A person needs urgent medical attention in the residential area during the afternoon but is currently conscious.,Medium
+Storm,Heavy rain and moderate winds were reported near the school during the afternoon.,Low
+Storm,Wind speeds have increased near the bus stand about ten minutes ago. Minor branches have fallen.,Low
+Landslide,A serious landslide has affected several structures in a residential building during the morning. Residents are evacuating.,High
+Earthquake,A strong earthquake has caused significant damage in a residential building during the night. Several buildings are affected.,High
+Landslide,A massive landslide has buried buildings near the shopping complex around twenty minutes ago. People are trapped under debris.,Critical
+Fire,A massive fire is spreading across several buildings in the residential area during the afternoon. Many people are trapped inside.,Critical
+Fire,A shop fire was reported near the shopping complex during the night. Smoke is increasing and assistance is needed.,Medium
+Flood,A shallow layer of water is covering the road near the hospital about ten minutes ago.,Low
+Crime,Suspicious behavior was noticed near the office area less than one hour ago. Residents are requesting police assistance.,Low
+Earthquake,Minor ground shaking occurred near the main road during the evening. No major problems are visible.,Low
+Earthquake,Several buildings were damaged by an earthquake in the residential area a few minutes ago. Residents are evacuating.,High
+Earthquake,Heavy shaking damaged multiple structures near the railway station earlier today. People need emergency assistance.,High
+Crime,A violent confrontation is taking place near the bridge during the night. Nearby people are in danger.,High
+Crime,A theft has been reported near the school during the evening. Police assistance is requested.,Medium
+Flood,Flood water has risen above dangerous levels in a residential building during the evening. Several families are stranded.,Critical
+Fire,A major fire with heavy smoke is threatening multiple buildings in the city center during the afternoon. Several people may be injured.,Critical
+Flood,Heavy rain has caused flooding in the residential area during the evening. Several roads are partially blocked.,Medium
+Flood,Minor waterlogging was reported near the hospital earlier today. Residents are able to move around.,Low
+Accident,A major crash has left multiple people trapped near the school less than one hour ago. Immediate rescue is required.,Critical
+Other,A critical public safety situation is developing near the market earlier today. Immediate emergency response is needed.,Critical
+Crime,A violent incident has occurred in the city center during the evening. Police assistance is urgently required.,High
+Other,A critical public safety situation is developing near the bus stand during the night. Immediate emergency response is needed.,Critical
+Fire,Smoke and a small flame were noticed near the railway station during the night. The fire has not spread.,Low
+Fire,A severe fire is out of control near the bridge during the evening. Multiple buildings and people are in immediate danger.,Critical
+Landslide,A massive landslide has buried buildings near the shopping complex about ten minutes ago. People are trapped under debris.,Critical
+Medical,A person is experiencing severe breathing difficulty near the highway during the afternoon. Medical help is urgently needed.,High
+Medical,A person is feeling unwell near the railway station less than one hour ago. Basic medical assistance may be required.,Low
+Landslide,Severe soil movement has buried multiple structures in the residential area about ten minutes ago. Several people may be trapped.,Critical
+Storm,A severe storm is causing major damage near the school earlier today. Several roads are blocked.,High
+Storm,A severe storm has destroyed buildings and blocked roads near the highway during the night. Multiple people need rescue.,Critical
+Storm,Extreme winds and heavy rain are threatening residents near the office area around twenty minutes ago. Immediate evacuation is required.,Critical
+Flood,Water has entered many buildings near the main road about ten minutes ago. Roads are no longer safe for vehicles.,High
+Accident,A major collision is blocking the road in the nearby village less than one hour ago. Several people need urgent assistance.,High
+Other,A local emergency situation is developing in a crowded street about ten minutes ago. Residents need support.,Medium
+Fire,A severe fire is out of control near the bus stand around twenty minutes ago. Multiple buildings and people are in immediate danger.,Critical
+Accident,A major collision is blocking the road near the bus stand a few minutes ago. Several people need urgent assistance.,High
+Other,A serious incident is threatening residents in a crowded street less than one hour ago. Immediate response is required.,High
+Storm,Strong winds and heavy rain are affecting near the hospital earlier today. Some roads are blocked.,Medium
+Fire,A major fire with heavy smoke is threatening multiple buildings near the railway station during the night. Several people may be injured.,Critical
+Medical,A person is experiencing a life-threatening emergency near the hospital earlier today. Immediate medical rescue is needed.,Critical
+Storm,A severe storm has destroyed buildings and blocked roads in a residential building earlier today. Multiple people need rescue.,Critical
+Earthquake,A powerful earthquake has caused widespread destruction near the bridge less than one hour ago. Many people may be trapped.,Critical
+Flood,Rapid flooding has trapped people inside homes near the bus stand during the evening. Emergency rescue is urgently required.,Critical
+Crime,A dispute has escalated near the main road a few minutes ago. Authorities are requested to control the situation.,Medium
+Medical,A person is experiencing a life-threatening emergency in the residential area about ten minutes ago. Immediate medical rescue is needed.,Critical
+Other,A major safety problem is affecting near the office area a few minutes ago. People are being moved to a safer area.,High
+Medical,A serious medical condition was reported in a crowded street around twenty minutes ago. Emergency assistance is required.,High
+Accident,A moderate traffic accident occurred near the railway station during the afternoon. Medical assistance is requested.,Medium
+Other,An unexpected incident is affecting in the nearby village during the evening. People are requesting emergency support.,Medium
+Crime,A person was attacked near the highway around twenty minutes ago. The suspect may still be nearby.,High
+Accident,A severe multi-vehicle accident occurred in a crowded street a few minutes ago. Several people are critically injured.,Critical
+Storm,Heavy rainfall and strong winds are disrupting transportation near the market about ten minutes ago.,Medium
+Fire,A moderate fire was reported near the school around twenty minutes ago. The fire is spreading slowly.,Medium
+Medical,Someone has suddenly become ill in a crowded street about ten minutes ago. A medical team is requested.,Medium
+Landslide,A catastrophic landslide has isolated an entire area near the bridge during the evening. Rescue teams are urgently needed.,Critical
+Storm,Heavy rain and moderate winds were reported near the school about ten minutes ago.,Low
+Storm,Strong winds and heavy rain are affecting near the office area less than one hour ago. Some roads are blocked.,Medium
+Storm,Strong winds are affecting near the highway during the morning. No major damage has been reported.,Low
+Medical,A resident has suffered a moderate medical problem near the shopping complex during the evening.,Medium
+Fire,A building is fully engulfed in flames near the market less than one hour ago. People are trapped and require immediate rescue.,Critical
+Accident,A vehicle crashed into another vehicle near the bridge earlier today. Several people have minor injuries.,Medium
+Crime,A person reported being threatened near the hospital around twenty minutes ago. Authorities are needed.,Medium
+Other,A major incident has placed multiple people in immediate danger near the hospital about ten minutes ago.,Critical
+Fire,A serious building fire was reported near the shopping complex earlier today. Thick smoke is affecting the surrounding area.,High
+Medical,A serious medical condition was reported near the hospital during the morning. Emergency assistance is required.,High
+Earthquake,Minor ground shaking occurred near the highway a few minutes ago. No major problems are visible.,Low
+Landslide,A catastrophic landslide has isolated an entire area near the shopping complex during the afternoon. Rescue teams are urgently needed.,Critical
+Landslide,A small landslide has affected the edge of the road near the market during the afternoon.,Low
+Other,An incident is disrupting normal activity near the bus stand a few minutes ago. Assistance is requested.,Medium
+Medical,Someone is in a life-threatening medical condition in a residential building during the afternoon. Urgent medical intervention is needed.,Critical
+Landslide,A landslide has blocked part of the road near the main road earlier today. Assistance is required.,Medium
+Earthquake,Several buildings were damaged by an earthquake near the main road during the morning. Residents are evacuating.,High
+Storm,Extreme winds and heavy rain are threatening residents near the office area during the evening. Immediate evacuation is required.,Critical
+Medical,A person is unconscious and not responding near the main road during the morning. Immediate emergency medical assistance is required.,Critical
+Landslide,Several rocks and soil have fallen near near the hospital a few minutes ago. Residents are requesting assistance.,Medium
+Landslide,A massive landslide has buried buildings in a residential building around twenty minutes ago. People are trapped under debris.,Critical
+Landslide,Moderate soil movement was reported in the city center earlier today. Traffic is being disrupted.,Medium
+Flood,Water has entered many buildings in a residential building earlier today. Roads are no longer safe for vehicles.,High
+Medical,A person requires basic first aid near the highway a few minutes ago. The situation appears stable.,Low
+Fire,A building is fully engulfed in flames in a residential building around twenty minutes ago. People are trapped and require immediate rescue.,Critical
+Crime,A possible theft was reported near the railway station earlier today. The situation appears under control.,Low
+Flood,Flood water has entered some houses near the office area less than one hour ago. People are moving to safer areas.,Medium
+Storm,Moderate storm activity is affecting near the bus stand a few minutes ago. No injuries are reported.,Low
+Accident,A small vehicle collision happened near the railway station during the afternoon. Traffic is moving slowly.,Low
+Other,A local safety concern was reported near the bridge earlier today. No injuries are known.,Low
+Medical,Someone reported mild illness near the bridge around twenty minutes ago. The person is conscious and stable.,Low
+Landslide,A huge landslide has caused widespread destruction near the market during the night. People are trapped and require immediate rescue.,Critical
+Fire,An electrical fire is burning near the railway station a few minutes ago. Nearby residents are requesting help.,Medium
+Storm,Severe weather has caused power failures and property damage near the shopping complex during the night.,High
+Earthquake,A major earthquake has collapsed buildings near the bridge during the evening. People are trapped under debris.,Critical
+Earthquake,A major earthquake has caused building damage near the shopping complex earlier today. Some people may be trapped.,High
+Accident,Several vehicles were involved in a severe collision near the railway station about ten minutes ago. Multiple victims require immediate rescue.,Critical
+Landslide,A serious landslide has affected several structures near the highway during the evening. Residents are evacuating.,High
+Other,A local emergency situation is developing near the bus stand about ten minutes ago. Residents need support.,Medium
+Fire,A fire has started in the nearby village earlier today. Flames are visible and nearby people are moving away.,Medium
+Accident,A severe multi-vehicle accident occurred in the nearby village during the night. Several people are critically injured.,Critical
+Crime,A serious armed crime has been reported near the main road around twenty minutes ago. The suspect may still be dangerous.,Critical
+Earthquake,Multiple structures have collapsed after a major earthquake in the residential area less than one hour ago. Immediate rescue is required.,Critical
+Landslide,A small landslide has affected the edge of the road in a crowded street during the afternoon.,Low
+Accident,A motorcycle slipped and fell near the hospital less than one hour ago. The rider has minor injuries.,Low
+Other,A major emergency has been reported near the school around twenty minutes ago. Several people may be affected.,High
+Fire,A shop fire was reported in the city center earlier today. Smoke is increasing and assistance is needed.,Medium
+Earthquake,Strong shaking was reported near the market during the morning. Some buildings have visible damage.,Medium
+Fire,A massive fire is spreading across several buildings near the bridge during the afternoon. Many people are trapped inside.,Critical
+Earthquake,A major earthquake has collapsed buildings in the city center a few minutes ago. People are trapped under debris.,Critical
+Medical,Someone has suddenly become ill near the shopping complex during the night. A medical team is requested.,Medium
+Storm,Strong winds have damaged buildings and trees in a crowded street about ten minutes ago. People need assistance.,High
+Crime,A property break-in occurred near the hospital during the night. Police investigation is required.,Medium
+Other,A life-threatening emergency is affecting in a residential building less than one hour ago. Immediate rescue and emergency response are required.,Critical
+Fire,A rapidly spreading fire has trapped residents near the school during the afternoon. Immediate evacuation and rescue are required.,Critical
+Flood,Rapid flooding has trapped people inside homes in a crowded street during the night. Emergency rescue is urgently required.,Critical
+Landslide,A small landslide has affected the edge of the road near the bus stand during the evening.,Low
+Other,A minor emergency situation was reported in the nearby village about ten minutes ago. The situation is currently stable.,Low
+Storm,A strong storm has made roads dangerous near the hospital during the afternoon. Emergency response is required.,High
+Fire,Heavy flames are coming from a building near the shopping complex during the night. Nearby residents need immediate assistance.,High
+Crime,A serious armed crime has been reported in a crowded street during the night. The suspect may still be dangerous.,Critical
+Earthquake,Heavy shaking damaged multiple structures near the highway about ten minutes ago. People need emergency assistance.,High
+Medical,A severe medical emergency has occurred in a crowded street earlier today. The victim is in critical condition.,Critical
+Other,A major safety problem is affecting near the highway during the morning. People are being moved to a safer area.,High
+Landslide,A large amount of debris has blocked in the nearby village less than one hour ago. People may be trapped nearby.,High
+Fire,A rapidly spreading fire has trapped residents in the residential area earlier today. Immediate evacuation and rescue are required.,Critical
+Fire,A fire has started near the market during the morning. Flames are visible and nearby people are moving away.,Medium
+Storm,Severe weather has caused power failures and property damage near the market earlier today.,High
+Storm,A severe storm is causing major damage near the highway around twenty minutes ago. Several roads are blocked.,High
+Fire,A building is fully engulfed in flames near the market earlier today. People are trapped and require immediate rescue.,Critical
+Landslide,Loose soil has moved onto the roadside near the bus stand about ten minutes ago.,Low
+Medical,A resident is experiencing mild symptoms near the railway station during the evening. Assistance is requested.,Low
+Accident,A motorcycle and car collided in a crowded street about ten minutes ago. One person appears injured.,Medium
+Landslide,Loose soil has moved onto the roadside near the bridge earlier today.,Low
+Accident,A vehicle collision has blocked part of the road in the city center around twenty minutes ago. Injured people need assistance.,Medium
+Earthquake,A severe earthquake has caused casualties and collapsed buildings near the office area around twenty minutes ago. Emergency rescue is critical.,Critical
+Crime,A violent incident has occurred in the city center during the morning. Police assistance is urgently required.,High
+Crime,Suspicious behavior was noticed near the office area during the evening. Residents are requesting police assistance.,Low
+Other,An incident is disrupting normal activity in a crowded street during the afternoon. Assistance is requested.,Medium
+Fire,A rapidly spreading fire has trapped residents near the market during the afternoon. Immediate evacuation and rescue are required.,Critical
+Crime,A suspicious activity was noticed near the bridge during the evening. No immediate threat has been reported.,Low
+Accident,A major collision is blocking the road near the bus stand during the night. Several people need urgent assistance.,High
+Medical,A serious medical condition was reported near the main road during the morning. Emergency assistance is required.,High
+Accident,A vehicle has overturned after an accident in the residential area during the evening. People are trapped inside.,High
+Earthquake,Strong shaking was reported near the railway station during the afternoon. Some buildings have visible damage.,Medium
+Storm,A moderate storm has damaged property in the nearby village during the evening. Emergency assistance is requested.,Medium
+Flood,Flood water has risen above dangerous levels near the shopping complex about ten minutes ago. Several families are stranded.,Critical
+Accident,A motorcycle and car collided near the railway station during the night. One person appears injured.,Medium
+Flood,Flooding has cut off access to near the hospital during the afternoon. Several residents need emergency assistance.,High
+Other,An incident is disrupting normal activity near the office area a few minutes ago. Assistance is requested.,Medium
+Fire,A rapidly spreading fire has trapped residents in a crowded street a few minutes ago. Immediate evacuation and rescue are required.,Critical
+Flood,Minor waterlogging was reported near the bridge during the morning. Residents are able to move around.,Low
+Flood,Severe flooding has submerged multiple buildings in a crowded street less than one hour ago. People are trapped and need rescue.,Critical
+Crime,A dispute has escalated in the residential area during the afternoon. Authorities are requested to control the situation.,Medium
+Storm,Extreme storm conditions have put many residents in immediate danger near the highway around twenty minutes ago.,Critical
+Landslide,Minor rockfall was reported near the hospital around twenty minutes ago. No injuries are known.,Low
+Earthquake,A weak earthquake was reported near the railway station during the morning. The situation appears stable.,Low
+Landslide,Severe soil movement has buried multiple structures near the railway station during the night. Several people may be trapped.,Critical
+Accident,A catastrophic road accident occurred near the highway less than one hour ago. People are trapped and critically injured.,Critical
+Earthquake,Strong shaking was reported near the office area earlier today. Some buildings have visible damage.,Medium
+Accident,A major crash has left multiple people trapped near the market around twenty minutes ago. Immediate rescue is required.,Critical
+Other,A life-threatening emergency is affecting near the hospital during the afternoon. Immediate rescue and emergency response are required.,Critical
+Earthquake,Moderate earthquake shaking was felt near the hospital earlier today. Some objects have fallen.,Medium
+Fire,A minor fire started in in the nearby village during the night. Nearby residents are monitoring the situation.,Low
+Fire,A small fire was noticed in near the bridge less than one hour ago. Smoke is visible but the situation appears contained.,Low
+Crime,A possible theft was reported near the office area less than one hour ago. The situation appears under control.,Low
+Earthquake,Several buildings were damaged by an earthquake near the bridge during the afternoon. Residents are evacuating.,High
+Earthquake,An earthquake has damaged parts of buildings near the bus stand during the night.,Medium
+Other,An incident is disrupting normal activity in the residential area around twenty minutes ago. Assistance is requested.,Medium
+Other,A severe emergency is affecting the area in a crowded street around twenty minutes ago. Several people require urgent assistance.,Critical
+Crime,A violent attack involving multiple people is occurring near the highway during the afternoon. People are in immediate danger.,Critical
+Storm,A severe storm has destroyed buildings and blocked roads in a crowded street around twenty minutes ago. Multiple people need rescue.,Critical
+Crime,A serious armed crime has been reported near the bridge earlier today. The suspect may still be dangerous.,Critical
+Storm,Strong winds and heavy rain are affecting near the railway station during the morning. Some roads are blocked.,Medium
+Storm,A violent storm is causing widespread destruction near the hospital during the night. People are trapped in damaged buildings.,Critical
+Storm,Strong winds have damaged buildings and trees near the railway station a few minutes ago. People need assistance.,High
+Storm,Heavy rainfall and strong winds are disrupting transportation near the school during the evening.,Medium
+Fire,A vehicle and nearby structure are on fire near the office area during the night. Emergency assistance is urgently needed.,High
+Medical,A severe medical emergency has occurred near the shopping complex around twenty minutes ago. The victim is in critical condition.,Critical
+Crime,A violent confrontation is taking place near the highway about ten minutes ago. Nearby people are in danger.,High
+Earthquake,Minor ground shaking occurred near the railway station earlier today. No major problems are visible.,Low
+Accident,A motorcycle slipped and fell near the market earlier today. The rider has minor injuries.,Low
+Fire,A small fire was noticed in near the main road about ten minutes ago. Smoke is visible but the situation appears contained.,Low
+Flood,Flooding has cut off access to in a residential building a few minutes ago. Several residents need emergency assistance.,High
+Landslide,Minor rockfall was reported near the bridge during the morning. No injuries are known.,Low
+Fire,A large fire is spreading rapidly near the highway during the morning. Several people are trying to evacuate.,High
+Accident,A motorcycle and car collided in the residential area about ten minutes ago. One person appears injured.,Medium
+Storm,Strong winds and heavy rain are affecting in the nearby village during the evening. Some roads are blocked.,Medium
+Flood,Water levels have increased significantly near the school earlier today. Residents are requesting assistance.,Medium
+Crime,A suspicious person was seen near the school around twenty minutes ago. No violence has been reported.,Low
+Fire,A small fire was noticed in near the main road earlier today. Smoke is visible but the situation appears contained.,Low
+Landslide,A massive landslide has buried buildings near the hospital during the evening. People are trapped under debris.,Critical
+Fire,A fire has damaged part of a building near the office area earlier today. The situation requires attention.,Medium
+Storm,Extreme winds and heavy rain are threatening residents near the hospital about ten minutes ago. Immediate evacuation is required.,Critical
+Fire,A building is fully engulfed in flames in the city center during the evening. People are trapped and require immediate rescue.,Critical
+Fire,A moderate fire was reported in the residential area during the night. The fire is spreading slowly.,Medium
+Earthquake,Moderate earthquake activity affected in the city center during the night. Roads may be partially blocked.,Medium
+Fire,Heavy flames are coming from a building near the main road less than one hour ago. Nearby residents need immediate assistance.,High
+Other,A local emergency situation is developing near the bus stand earlier today. Residents need support.,Medium
+Earthquake,A strong earthquake has caused significant damage near the hospital about ten minutes ago. Several buildings are affected.,High
+Flood,Flood water has risen above dangerous levels near the main road a few minutes ago. Several families are stranded.,Critical
+Other,A major emergency has been reported in a crowded street a few minutes ago. Several people may be affected.,High
+Earthquake,Several buildings were damaged by an earthquake near the hospital a few minutes ago. Residents are evacuating.,High
+Other,A dangerous situation is developing near the school a few minutes ago. Emergency responders are requested.,High
+Flood,Heavy rain has caused flooding in the residential area about ten minutes ago. Several roads are partially blocked.,Medium
+Flood,A serious flood has affected near the highway earlier today. Residents are struggling to evacuate.,High
+Medical,A person is experiencing severe breathing difficulty in the nearby village earlier today. Medical help is urgently needed.,High
+Other,A minor emergency situation was reported near the school a few minutes ago. The situation is currently stable.,Low
+Landslide,A major landslide has damaged the road and nearby property near the market during the night.,High
+Flood,Water has entered many buildings in a crowded street about ten minutes ago. Roads are no longer safe for vehicles.,High
+Crime,A serious criminal incident was reported near the bridge about ten minutes ago. Immediate police response is needed.,High
+Earthquake,Minor ground shaking occurred near the highway during the evening. No major problems are visible.,Low
+Landslide,A major landslide has damaged the road and nearby property in a residential building during the evening.,High
+Storm,A severe storm is causing major damage near the office area during the morning. Several roads are blocked.,High
+Landslide,A landslide has deposited debris on the road near the office area during the evening.,Medium
+Earthquake,A small earthquake was felt near the school during the morning. Buildings appear unaffected.,Low
+Other,An unexpected incident is affecting in the residential area during the morning. People are requesting emergency support.,Medium
+Landslide,A major landslide has destroyed the road and buried vehicles near the main road during the night. Immediate rescue is required.,Critical
+Accident,A major collision is blocking the road in a residential building during the night. Several people need urgent assistance.,High
+Medical,A resident has suffered a moderate medical problem near the railway station around twenty minutes ago.,Medium
+Landslide,Minor rockfall was reported in a crowded street around twenty minutes ago. No injuries are known.,Low
+Storm,A powerful storm is affecting near the bridge earlier today. Residents are being advised to evacuate.,High
+Earthquake,A major earthquake has caused building damage near the school around twenty minutes ago. Some people may be trapped.,High
+Earthquake,A weak earthquake was reported near the highway about ten minutes ago. The situation appears stable.,Low
+Accident,A vehicle has overturned after an accident near the main road during the evening. People are trapped inside.,High
+Other,A serious public safety incident is affecting in the residential area during the night. Immediate assistance is needed.,High
+Earthquake,Multiple structures have collapsed after a major earthquake near the market during the night. Immediate rescue is required.,Critical
+Medical,A severe medical emergency has occurred near the shopping complex earlier today. The victim is in critical condition.,Critical
+Accident,A moderate traffic accident occurred in the nearby village less than one hour ago. Medical assistance is requested.,Medium
+Medical,Someone has suddenly become ill near the shopping complex earlier today. A medical team is requested.,Medium
+Accident,Two vehicles had a minor collision near the hospital during the night. No one appears seriously injured.,Low
+Flood,Water has entered many buildings in a residential building around twenty minutes ago. Roads are no longer safe for vehicles.,High
+Medical,A person requires basic first aid near the bus stand earlier today. The situation appears stable.,Low
+Crime,A theft has been reported near the railway station less than one hour ago. Police assistance is requested.,Medium
+Landslide,Several rocks and soil have fallen near near the main road during the night. Residents are requesting assistance.,Medium
+Earthquake,Multiple structures have collapsed after a major earthquake in a residential building during the night. Immediate rescue is required.,Critical
+Earthquake,Severe earthquake damage has affected multiple buildings in a crowded street during the afternoon. Rescue teams are urgently needed.,Critical
+Earthquake,A major earthquake has caused building damage near the school during the afternoon. Some people may be trapped.,High
+Other,A major incident has placed multiple people in immediate danger near the shopping complex less than one hour ago.,Critical
+Fire,A small fire was noticed in in the city center earlier today. Smoke is visible but the situation appears contained.,Low
+Flood,Heavy rain has caused flooding near the main road a few minutes ago. Several roads are partially blocked.,Medium
+Landslide,A large landslide has blocked the main road in the nearby village around twenty minutes ago. Several people are stranded.,High
+Accident,A vehicle crashed into another vehicle near the main road earlier today. Several people have minor injuries.,Medium
+Earthquake,A major earthquake has collapsed buildings near the shopping complex less than one hour ago. People are trapped under debris.,Critical
+Fire,An electrical fire is burning in the city center during the evening. Nearby residents are requesting help.,Medium
+Crime,A possible theft was reported near the market around twenty minutes ago. The situation appears under control.,Low
+Medical,Someone reported mild illness near the highway during the afternoon. The person is conscious and stable.,Low
+Medical,A severe medical emergency has occurred near the school a few minutes ago. The victim is in critical condition.,Critical
+Accident,A minor traffic accident was reported near the highway a few minutes ago. Assistance may be needed.,Low
+Medical,A person needs urgent medical attention near the bus stand during the afternoon but is currently conscious.,Medium
+Other,A serious incident is threatening residents near the bus stand less than one hour ago. Immediate response is required.,High
+Landslide,A catastrophic landslide has isolated an entire area in the residential area earlier today. Rescue teams are urgently needed.,Critical
+Crime,A serious armed crime has been reported in the residential area during the evening. The suspect may still be dangerous.,Critical
+Landslide,A moderate landslide has affected access to near the bus stand during the night.,Medium
+Other,A small obstruction is affecting the area near the main road about ten minutes ago. Assistance may be required.,Low
+Flood,Rainwater has entered a small part of the area near the highway during the night. No injuries are reported.,Low
+Crime,A violent attack involving multiple people is occurring in the city center during the afternoon. People are in immediate danger.,Critical
+Earthquake,A mild earthquake was felt in the city center a few minutes ago. No damage has been reported.,Low
+Earthquake,An earthquake has damaged parts of buildings near the office area during the evening.,Medium
+Medical,A person is unconscious but breathing near the highway during the evening. Immediate medical support is needed.,High
+Accident,A serious accident involving multiple vehicles occurred near the main road during the night. Emergency support is needed.,High
+Medical,A person is feeling unwell near the bridge less than one hour ago. Basic medical assistance may be required.,Low
+Medical,A person is experiencing severe breathing difficulty in a crowded street a few minutes ago. Medical help is urgently needed.,High
+Storm,Severe weather has caused power failures and property damage near the market about ten minutes ago.,High

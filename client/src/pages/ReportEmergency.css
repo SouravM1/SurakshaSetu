@@ -1,0 +1,816 @@
+/* =========================================================
+   REPORT EMERGENCY PAGE
+========================================================= */
+
+.report-page {
+    min-height: 100vh;
+
+    background: #f5f7fb;
+
+    color: #172033;
+}
+
+
+/* =========================================================
+   MAIN CONTENT
+========================================================= */
+
+.report-main {
+    margin-left: 280px;
+
+    width: calc(100% - 280px);
+
+    min-height: 100vh;
+
+    padding: 0 35px 50px;
+}
+
+
+/* =========================================================
+   TOPBAR
+========================================================= */
+
+.report-topbar {
+    height: 90px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    border-bottom: 1px solid #e2e8f0;
+
+    background: #f5f7fb;
+}
+
+
+/* =========================================================
+   TOPBAR LEFT
+========================================================= */
+
+.report-topbar > div:first-child {
+    min-width: 0;
+}
+
+.report-topbar h1 {
+    margin: 0;
+
+    font-size: 28px;
+
+    font-weight: 700;
+
+    color: #172033;
+}
+
+.report-topbar p {
+    margin: 6px 0 0;
+
+    font-size: 14px;
+
+    color: #7b8495;
+}
+
+
+/* =========================================================
+   USER PROFILE
+========================================================= */
+
+.report-user {
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    flex-shrink: 0;
+}
+
+.report-user-avatar {
+    width: 40px;
+    height: 40px;
+
+    min-width: 40px;
+
+    border-radius: 50%;
+
+    background: #2563eb;
+
+    color: #ffffff;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 15px;
+
+    font-weight: 600;
+}
+
+.report-user-info {
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: center;
+}
+
+.report-user-info strong {
+    display: block;
+
+    max-width: 160px;
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+    white-space: nowrap;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    color: #172033;
+}
+
+.report-user-info span {
+    display: block;
+
+    margin-top: 3px;
+
+    font-size: 11px;
+
+    color: #7b8495;
+
+    text-transform: capitalize;
+}
+
+
+/* =========================================================
+   REPORT CONTENT
+========================================================= */
+
+.report-content {
+    max-width: 950px;
+
+    margin: 30px auto 0;
+}
+
+
+/* =========================================================
+   INTRODUCTION
+========================================================= */
+
+.report-intro {
+    display: flex;
+
+    align-items: center;
+
+    gap: 18px;
+
+    background: #ffffff;
+
+    border: 1px solid #e2e8f0;
+
+    border-radius: 14px;
+
+    padding: 22px 24px;
+
+    margin-bottom: 20px;
+
+    box-shadow:
+        0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.report-intro-icon {
+    width: 52px;
+    height: 52px;
+
+    min-width: 52px;
+
+    border-radius: 12px;
+
+    background: #fee2e2;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    font-size: 25px;
+}
+
+.report-intro h2 {
+    margin: 0;
+
+    font-size: 19px;
+
+    font-weight: 700;
+
+    color: #172033;
+}
+
+.report-intro p {
+    margin: 5px 0 0;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+
+    color: #7b8495;
+}
+
+
+/* =========================================================
+   ERROR MESSAGE
+========================================================= */
+
+.report-error {
+    margin-bottom: 20px;
+
+    padding: 13px 16px;
+
+    border-radius: 10px;
+
+    border: 1px solid #fecaca;
+
+    background: #fff1f2;
+
+    color: #be123c;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   SUCCESS MESSAGE
+========================================================= */
+
+.report-success {
+    margin-bottom: 20px;
+
+    padding: 13px 16px;
+
+    border-radius: 10px;
+
+    border: 1px solid #bbf7d0;
+
+    background: #ecfdf5;
+
+    color: #047857;
+
+    font-size: 14px;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   EMERGENCY FORM
+========================================================= */
+
+.emergency-form {
+    background: #ffffff;
+
+    border: 1px solid #e2e8f0;
+
+    border-radius: 16px;
+
+    padding: 30px;
+
+    box-shadow:
+        0 4px 15px rgba(0, 0, 0, 0.04);
+}
+
+
+/* =========================================================
+   FORM GROUP
+========================================================= */
+
+.emergency-form .form-group {
+    margin-bottom: 22px;
+}
+
+.emergency-form .form-group label {
+    display: block;
+
+    margin-bottom: 8px;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    color: #24324a;
+}
+
+
+/* =========================================================
+   INPUT / SELECT / TEXTAREA
+========================================================= */
+
+.emergency-form input,
+.emergency-form select,
+.emergency-form textarea {
+    width: 100%;
+
+    border: 1px solid #d4dce8;
+
+    border-radius: 10px;
+
+    background: #ffffff;
+
+    padding: 13px 15px;
+
+    font-family: inherit;
+
+    font-size: 14px;
+
+    color: #172033;
+
+    outline: none;
+
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+
+/* =========================================================
+   INPUT
+========================================================= */
+
+.emergency-form input,
+.emergency-form select {
+    height: 52px;
+}
+
+
+/* =========================================================
+   TEXTAREA
+========================================================= */
+
+.emergency-form textarea {
+    min-height: 130px;
+
+    resize: vertical;
+
+    line-height: 1.5;
+}
+
+
+/* =========================================================
+   PLACEHOLDER
+========================================================= */
+
+.emergency-form input::placeholder,
+.emergency-form textarea::placeholder {
+    color: #9aa6b6;
+}
+
+
+/* =========================================================
+   FOCUS
+========================================================= */
+
+.emergency-form input:focus,
+.emergency-form select:focus,
+.emergency-form textarea:focus {
+    border-color: #2563eb;
+
+    box-shadow:
+        0 0 0 4px rgba(37, 99, 235, 0.10);
+}
+
+
+/* =========================================================
+   LOCATION SECTION
+========================================================= */
+
+.location-section {
+    margin-top: -5px;
+
+    margin-bottom: 24px;
+}
+
+
+/* =========================================================
+   LOCATION BUTTON
+========================================================= */
+
+.location-btn {
+    min-height: 46px;
+
+    padding: 0 18px;
+
+    border: 1px solid #bfdbfe;
+
+    border-radius: 9px;
+
+    background: #eff6ff;
+
+    color: #2563eb;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.location-btn:hover:not(:disabled) {
+    background: #dbeafe;
+
+    border-color: #93c5fd;
+
+    transform: translateY(-1px);
+}
+
+.location-btn:disabled {
+    opacity: 0.65;
+
+    cursor: not-allowed;
+}
+
+
+/* =========================================================
+   LOCATION SUCCESS
+========================================================= */
+
+.location-success {
+    display: flex;
+
+    align-items: center;
+
+    gap: 12px;
+
+    margin-top: 14px;
+
+    padding: 13px 15px;
+
+    border: 1px solid #bbf7d0;
+
+    border-radius: 10px;
+
+    background: #f0fdf4;
+}
+
+.location-success > span {
+    width: 34px;
+    height: 34px;
+
+    min-width: 34px;
+
+    border-radius: 8px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    background: #dcfce7;
+
+    font-size: 17px;
+}
+
+.location-success > div {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 3px;
+}
+
+.location-success strong {
+    font-size: 13px;
+
+    color: #166534;
+}
+
+.location-success small {
+    font-size: 12px;
+
+    color: #4b7a5a;
+}
+
+
+/* =========================================================
+   PRIORITY SELECT
+========================================================= */
+
+#priority {
+    cursor: pointer;
+}
+
+
+/* =========================================================
+   FORM BUTTONS
+========================================================= */
+
+.form-buttons {
+    display: flex;
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+    gap: 12px;
+
+    margin-top: 30px;
+
+    padding-top: 22px;
+
+    border-top: 1px solid #edf0f5;
+}
+
+
+/* =========================================================
+   CANCEL BUTTON
+========================================================= */
+
+.cancel-btn {
+    min-width: 110px;
+
+    height: 48px;
+
+    padding: 0 20px;
+
+    border: 1px solid #d8dee8;
+
+    border-radius: 9px;
+
+    background: #ffffff;
+
+    color: #475569;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease,
+        color 0.2s ease;
+}
+
+.cancel-btn:hover:not(:disabled) {
+    background: #f8fafc;
+
+    border-color: #cbd5e1;
+
+    color: #334155;
+}
+
+
+/* =========================================================
+   SUBMIT BUTTON
+========================================================= */
+
+.submit-btn {
+    min-width: 190px;
+
+    height: 48px;
+
+    padding: 0 22px;
+
+    border: none;
+
+    border-radius: 9px;
+
+    background: #dc2626;
+
+    color: #ffffff;
+
+    font-size: 14px;
+
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.submit-btn:hover:not(:disabled) {
+    background: #b91c1c;
+
+    transform: translateY(-1px);
+
+    box-shadow:
+        0 6px 16px rgba(220, 38, 38, 0.20);
+}
+
+.submit-btn:active:not(:disabled) {
+    transform: translateY(0);
+}
+
+
+/* =========================================================
+   DISABLED BUTTONS
+========================================================= */
+
+.cancel-btn:disabled,
+.submit-btn:disabled {
+    opacity: 0.6;
+
+    cursor: not-allowed;
+
+    transform: none;
+
+    box-shadow: none;
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1100px) {
+
+    .report-main {
+        margin-left: 250px;
+
+        width: calc(100% - 250px);
+
+        padding-left: 25px;
+
+        padding-right: 25px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL TABLET
+========================================================= */
+
+@media (max-width: 900px) {
+
+    .report-main {
+        margin-left: 220px;
+
+        width: calc(100% - 220px);
+
+        padding-left: 20px;
+
+        padding-right: 20px;
+    }
+
+    .report-content {
+        max-width: 100%;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 700px) {
+
+    .report-main {
+        margin-left: 0;
+
+        width: 100%;
+
+        padding:
+            0
+            15px
+            35px;
+    }
+
+
+    /* TOPBAR */
+
+    .report-topbar {
+        height: auto;
+
+        min-height: 80px;
+
+        padding: 15px 0;
+    }
+
+    .report-topbar h1 {
+        font-size: 23px;
+    }
+
+    .report-topbar p {
+        font-size: 12px;
+    }
+
+    .report-user-info {
+        display: none;
+    }
+
+    .report-user {
+        gap: 0;
+    }
+
+
+    /* CONTENT */
+
+    .report-content {
+        margin-top: 20px;
+    }
+
+
+    /* INTRO */
+
+    .report-intro {
+        align-items: flex-start;
+
+        padding: 18px;
+    }
+
+    .report-intro-icon {
+        width: 46px;
+        height: 46px;
+
+        min-width: 46px;
+
+        font-size: 22px;
+    }
+
+    .report-intro h2 {
+        font-size: 17px;
+    }
+
+    .report-intro p {
+        font-size: 13px;
+    }
+
+
+    /* FORM */
+
+    .emergency-form {
+        padding: 20px;
+    }
+
+
+    /* BUTTONS */
+
+    .form-buttons {
+        flex-direction: column-reverse;
+
+        align-items: stretch;
+    }
+
+    .cancel-btn,
+    .submit-btn {
+        width: 100%;
+    }
+
+}
+
+
+/* =========================================================
+   VERY SMALL MOBILE
+========================================================= */
+
+@media (max-width: 480px) {
+
+    .report-main {
+        padding-left: 12px;
+
+        padding-right: 12px;
+    }
+
+    .report-topbar h1 {
+        font-size: 21px;
+    }
+
+    .report-intro {
+        gap: 12px;
+
+        padding: 16px;
+    }
+
+    .report-intro-icon {
+        width: 42px;
+        height: 42px;
+
+        min-width: 42px;
+    }
+
+    .emergency-form {
+        padding: 18px;
+    }
+
+    .location-btn {
+        width: 100%;
+    }
+
+}

@@ -1,0 +1,1568 @@
+/* =====================================================
+   HOME PAGE
+===================================================== */
+
+.home-page {
+    min-height: 100vh;
+    background: #ffffff;
+    color: #172033;
+    overflow-x: hidden;
+}
+
+
+/* =====================================================
+   NAVBAR
+===================================================== */
+
+.home-navbar {
+    min-height: 78px;
+    padding: 0 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    background: #ffffff;
+    border-bottom: 1px solid #edf0f5;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+/* =====================================================
+   LOGO
+===================================================== */
+
+.home-logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+}
+
+.home-logo-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #2563eb;
+    color: white;
+
+    font-size: 25px;
+
+    box-shadow:
+        0 8px 20px rgba(37, 99, 235, 0.20);
+}
+
+.home-logo h2 {
+    margin: 0;
+    font-size: 21px;
+    color: #172033;
+}
+
+.home-logo span {
+    display: block;
+    margin-top: 2px;
+    font-size: 12px;
+    color: #718096;
+}
+
+
+/* =====================================================
+   DESKTOP NAVIGATION
+===================================================== */
+
+.home-nav-links {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+
+.home-nav-links a {
+    color: #526174;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.home-nav-links a:hover {
+    color: #2563eb;
+}
+
+
+/* =====================================================
+   DESKTOP BUTTONS
+===================================================== */
+
+.home-nav-buttons {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.home-login-btn,
+.home-start-btn {
+    border: none;
+    border-radius: 8px;
+    padding: 11px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+.home-login-btn {
+    background: transparent;
+    color: #2563eb;
+}
+
+.home-login-btn:hover {
+    background: #eff6ff;
+}
+
+.home-start-btn {
+    background: #2563eb;
+    color: white;
+
+    box-shadow:
+        0 6px 16px rgba(37, 99, 235, 0.20);
+}
+
+.home-start-btn:hover {
+    transform: translateY(-1px);
+
+    box-shadow:
+        0 9px 20px rgba(37, 99, 235, 0.25);
+}
+
+
+/* =====================================================
+   MOBILE MENU BUTTON
+===================================================== */
+
+.mobile-menu-btn {
+    display: none;
+
+    width: 42px;
+    height: 42px;
+
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid #dfe5ee;
+    border-radius: 9px;
+
+    background: #ffffff;
+    color: #172033;
+
+    font-size: 22px;
+    line-height: 1;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease,
+        color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.mobile-menu-btn:hover {
+    background: #f5f8ff;
+    color: #2563eb;
+    border-color: #cbd8ef;
+}
+
+
+/* =====================================================
+   MOBILE NAVIGATION
+===================================================== */
+
+.mobile-nav-menu {
+    display: none;
+}
+
+
+/* =====================================================
+   HERO
+===================================================== */
+
+.home-hero {
+    min-height: 620px;
+
+    padding: 80px 7%;
+
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+
+    align-items: center;
+
+    gap: 70px;
+
+    background:
+        radial-gradient(
+            circle at 85% 20%,
+            rgba(37, 99, 235, 0.12),
+            transparent 35%
+        ),
+        linear-gradient(
+            135deg,
+            #f7faff,
+            #ffffff
+        );
+}
+
+
+/* =====================================================
+   HERO CONTENT
+===================================================== */
+
+.hero-badge {
+    display: inline-block;
+
+    padding: 8px 14px;
+    margin-bottom: 22px;
+
+    border-radius: 30px;
+
+    background: #eaf1ff;
+    color: #2563eb;
+
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.hero-content h1 {
+    margin: 0;
+
+    max-width: 720px;
+
+    font-size: 58px;
+    line-height: 1.08;
+
+    letter-spacing: -2px;
+}
+
+.hero-content h1 span {
+    display: block;
+    color: #2563eb;
+}
+
+.hero-content > p {
+    max-width: 650px;
+
+    margin: 25px 0;
+
+    color: #627188;
+
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+
+/* =====================================================
+   HERO BUTTONS
+===================================================== */
+
+.hero-buttons {
+    display: flex;
+    gap: 14px;
+    margin-top: 30px;
+}
+
+.hero-primary-btn,
+.hero-secondary-btn {
+    padding: 14px 22px;
+
+    border-radius: 9px;
+
+    font-size: 15px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+.hero-primary-btn {
+    border: none;
+
+    background: #2563eb;
+    color: white;
+
+    box-shadow:
+        0 10px 24px rgba(37, 99, 235, 0.22);
+}
+
+.hero-primary-btn:hover {
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 13px 28px rgba(37, 99, 235, 0.28);
+}
+
+.hero-secondary-btn {
+    border: 1px solid #d7dfeb;
+
+    background: white;
+    color: #2563eb;
+}
+
+.hero-secondary-btn:hover {
+    background: #f8fbff;
+    border-color: #bfd0eb;
+}
+
+
+/* =====================================================
+   HERO HIGHLIGHTS
+===================================================== */
+
+.hero-highlights {
+    display: flex;
+    gap: 35px;
+    margin-top: 45px;
+}
+
+.hero-highlights div {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.hero-highlights strong {
+    font-size: 18px;
+    color: #172033;
+}
+
+.hero-highlights span {
+    font-size: 12px;
+    color: #718096;
+}
+
+
+/* =====================================================
+   HERO VISUAL
+===================================================== */
+
+.hero-visual {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-card {
+    width: 100%;
+    max-width: 490px;
+
+    padding: 26px;
+
+    border: 1px solid #e4e9f1;
+    border-radius: 20px;
+
+    background: white;
+
+    box-shadow:
+        0 25px 60px rgba(35, 52, 80, 0.12);
+}
+
+.hero-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 25px;
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.live-indicator {
+    color: #16a34a;
+    font-size: 12px;
+}
+
+
+/* =====================================================
+   HERO EMERGENCY CARD
+===================================================== */
+
+.hero-emergency-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    padding: 18px;
+
+    border-radius: 14px;
+
+    background: #f7f9fc;
+}
+
+.hero-emergency-icon {
+    width: 50px;
+    height: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-shrink: 0;
+
+    border-radius: 12px;
+
+    background: #feecec;
+
+    font-size: 25px;
+}
+
+.hero-emergency-card strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.hero-emergency-card p {
+    margin: 0;
+
+    color: #718096;
+
+    font-size: 13px;
+}
+
+
+/* =====================================================
+   HERO PRIORITY
+===================================================== */
+
+.hero-priority {
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 22px;
+    padding: 18px 0;
+
+    border-bottom: 1px solid #edf0f5;
+}
+
+.hero-priority div {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.hero-priority span {
+    color: #718096;
+    font-size: 12px;
+}
+
+.hero-priority strong {
+    font-size: 15px;
+}
+
+.critical {
+    color: #dc2626;
+}
+
+.responding {
+    color: #2563eb;
+}
+
+
+/* =====================================================
+   RESPONSE PROGRESS
+===================================================== */
+
+.hero-response-line {
+    display: flex;
+    align-items: center;
+
+    margin-top: 25px;
+}
+
+.response-step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 6px;
+
+    min-width: 70px;
+}
+
+.response-step span {
+    width: 30px;
+    height: 30px;
+
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #e9eef6;
+    color: #718096;
+
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.response-step.active span {
+    background: #2563eb;
+    color: white;
+}
+
+.response-step p {
+    margin: 0;
+
+    font-size: 10px;
+    color: #718096;
+
+    text-align: center;
+}
+
+.response-line {
+    flex: 1;
+
+    height: 2px;
+
+    background: #dce3ed;
+
+    margin-bottom: 18px;
+}
+
+
+/* =====================================================
+   COMMON SECTION
+===================================================== */
+
+.home-section {
+    padding: 100px 7%;
+}
+
+.section-heading {
+    max-width: 760px;
+
+    margin: 0 auto 55px;
+
+    text-align: center;
+}
+
+.section-heading > span,
+.technology-content > div:first-child > span {
+    color: #2563eb;
+
+    font-size: 12px;
+    font-weight: 800;
+
+    letter-spacing: 1.5px;
+}
+
+.section-heading h2 {
+    margin: 12px 0 15px;
+
+    font-size: 38px;
+    line-height: 1.2;
+}
+
+.section-heading p {
+    margin: 0;
+
+    color: #718096;
+
+    line-height: 1.7;
+}
+
+
+/* =====================================================
+   FEATURES
+===================================================== */
+
+.features-grid {
+    max-width: 1150px;
+
+    margin: auto;
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 22px;
+}
+
+.feature-card {
+    padding: 30px;
+
+    border: 1px solid #e7ebf2;
+    border-radius: 15px;
+
+    background: white;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 15px 35px rgba(30, 50, 80, 0.08);
+}
+
+.feature-icon {
+    width: 52px;
+    height: 52px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 13px;
+
+    background: #edf3ff;
+
+    font-size: 25px;
+
+    margin-bottom: 20px;
+}
+
+.feature-card h3 {
+    margin: 0 0 10px;
+
+    font-size: 18px;
+}
+
+.feature-card p {
+    margin: 0;
+
+    color: #718096;
+
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+
+/* =====================================================
+   HOW IT WORKS
+===================================================== */
+
+.how-section {
+    padding: 100px 7%;
+
+    background: #f7f9fc;
+}
+
+.workflow {
+    max-width: 1250px;
+
+    margin: auto;
+
+    display: flex;
+
+    align-items: flex-start;
+    justify-content: center;
+
+    gap: 15px;
+}
+
+.workflow-step {
+    width: 190px;
+
+    text-align: center;
+}
+
+.step-number {
+    color: #2563eb;
+
+    font-size: 12px;
+    font-weight: 800;
+
+    margin-bottom: 12px;
+}
+
+.step-icon {
+    width: 62px;
+    height: 62px;
+
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background: white;
+
+    border: 1px solid #e1e7f0;
+
+    font-size: 25px;
+}
+
+.workflow-step h3 {
+    margin: 16px 0 8px;
+
+    font-size: 17px;
+}
+
+.workflow-step p {
+    margin: 0;
+
+    color: #718096;
+
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.workflow-arrow {
+    padding-top: 65px;
+
+    color: #a3afc0;
+
+    font-size: 22px;
+}
+
+
+/* =====================================================
+   TECHNOLOGY
+===================================================== */
+
+.technology-section {
+    padding: 90px 7%;
+}
+
+.technology-content {
+    max-width: 1100px;
+
+    margin: auto;
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    align-items: center;
+
+    gap: 80px;
+}
+
+.technology-content h2 {
+    margin: 12px 0 15px;
+
+    font-size: 38px;
+}
+
+.technology-content p {
+    max-width: 500px;
+
+    color: #718096;
+
+    line-height: 1.7;
+}
+
+.technology-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 14px;
+}
+
+.technology-grid div {
+    padding: 18px;
+
+    border: 1px solid #e3e8f0;
+    border-radius: 10px;
+
+    background: #f8fafc;
+
+    color: #344054;
+
+    font-weight: 600;
+
+    text-align: center;
+
+    transition:
+        transform 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.technology-grid div:hover {
+    transform: translateY(-2px);
+    border-color: #cbd8ef;
+}
+
+
+/* =====================================================
+   CTA
+===================================================== */
+
+.home-cta {
+    padding: 90px 7%;
+
+    text-align: center;
+
+    background:
+        linear-gradient(
+            135deg,
+            #2563eb,
+            #1d4ed8
+        );
+
+    color: white;
+}
+
+.home-cta h2 {
+    margin: 0 0 12px;
+
+    font-size: 40px;
+}
+
+.home-cta p {
+    margin: 0 auto 25px;
+
+    max-width: 600px;
+
+    color: #dbeafe;
+
+    line-height: 1.6;
+}
+
+.home-cta button {
+    padding: 14px 26px;
+
+    border: none;
+    border-radius: 9px;
+
+    background: white;
+    color: #2563eb;
+
+    font-size: 15px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.home-cta button:hover {
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+
+/* =====================================================
+   FOOTER
+===================================================== */
+
+.home-footer {
+    padding: 45px 7% 25px;
+
+    background: #111c31;
+
+    color: white;
+}
+
+
+/* =====================================================
+   FOOTER BRAND
+===================================================== */
+
+.footer-brand {
+    display: flex;
+    align-items: center;
+
+    gap: 12px;
+}
+
+.footer-brand h3 {
+    margin: 0;
+}
+
+.footer-brand p {
+    margin: 4px 0 0;
+
+    color: #9aa9bd;
+
+    font-size: 13px;
+
+    line-height: 1.5;
+}
+
+
+/* =====================================================
+   FOOTER LINKS
+===================================================== */
+
+.footer-links {
+    display: flex;
+
+    gap: 25px;
+
+    margin-top: 30px;
+}
+
+.footer-links a,
+.footer-links button {
+    border: none;
+
+    background: none;
+
+    padding: 0;
+
+    color: #aebbd0;
+
+    text-decoration: none;
+
+    cursor: pointer;
+
+    font-size: 13px;
+
+    transition: color 0.2s ease;
+}
+
+.footer-links a:hover,
+.footer-links button:hover {
+    color: white;
+}
+
+
+/* =====================================================
+   FOOTER BOTTOM
+===================================================== */
+
+.footer-bottom {
+    margin-top: 30px;
+
+    padding-top: 20px;
+
+    border-top: 1px solid #26334a;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    gap: 20px;
+
+    color: #7f8da2;
+
+    font-size: 12px;
+}
+
+
+/* =====================================================
+   FOOTER CREDIT
+===================================================== */
+
+.footer-credit {
+    margin: 0;
+
+    color: #718096;
+
+    font-size: 15px;
+
+    text-align: right;
+
+    white-space: nowrap;
+}
+
+.footer-credit strong {
+    color: #2563eb;
+
+    font-weight: 700;
+}
+
+
+/* =====================================================
+   ANIMATED HEART
+===================================================== */
+
+.footer-heart {
+    display: inline-block;
+
+    margin: 0 2px;
+
+    transform-origin: center;
+
+    animation:
+        heartBeat 1.2s ease-in-out infinite;
+}
+
+
+/* =====================================================
+   HEART ANIMATION
+===================================================== */
+
+@keyframes heartBeat {
+
+    0% {
+        transform: scale(1);
+    }
+
+    15% {
+        transform: scale(1.18);
+    }
+
+    30% {
+        transform: scale(1);
+    }
+
+    45% {
+        transform: scale(1.12);
+    }
+
+    60% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+
+}
+
+
+/* =====================================================
+   TABLET RESPONSIVE
+===================================================== */
+
+@media (max-width: 1000px) {
+
+    /* -------------------------------------------------
+       NAVIGATION
+    ------------------------------------------------- */
+
+    .home-navbar {
+        padding: 0 5%;
+    }
+
+    .home-nav-links {
+        display: none;
+    }
+
+    .home-nav-buttons {
+        display: none;
+    }
+
+    .mobile-menu-btn {
+        display: flex;
+    }
+
+
+    /* -------------------------------------------------
+       MOBILE NAVIGATION
+    ------------------------------------------------- */
+
+    .mobile-nav-menu {
+        position: fixed;
+
+        top: 78px;
+        left: 0;
+        right: 0;
+
+        z-index: 999;
+
+        display: flex;
+
+        flex-direction: column;
+
+        padding: 18px 5% 22px;
+
+        background: #ffffff;
+
+        border-bottom: 1px solid #e5eaf2;
+
+        box-shadow:
+            0 12px 25px rgba(20, 35, 60, 0.10);
+    }
+
+    .mobile-nav-menu a,
+    .mobile-nav-menu button {
+        width: 100%;
+
+        box-sizing: border-box;
+
+        padding: 13px 14px;
+
+        border: none;
+        border-radius: 8px;
+
+        background: transparent;
+
+        color: #344054;
+
+        text-decoration: none;
+
+        font-family: inherit;
+
+        font-size: 15px;
+        font-weight: 600;
+
+        text-align: left;
+
+        cursor: pointer;
+
+        transition:
+            background 0.2s ease,
+            color 0.2s ease;
+    }
+
+    .mobile-nav-menu a:hover,
+    .mobile-nav-menu button:hover {
+        background: #f1f5ff;
+        color: #2563eb;
+    }
+
+    .mobile-nav-menu button {
+        margin-top: 2px;
+    }
+
+    .mobile-nav-menu .mobile-start-btn {
+        margin-top: 8px;
+
+        background: #2563eb;
+        color: white;
+
+        text-align: center;
+
+        box-shadow:
+            0 6px 15px rgba(37, 99, 235, 0.18);
+    }
+
+    .mobile-nav-menu .mobile-start-btn:hover {
+        background: #1d4ed8;
+        color: white;
+    }
+
+
+    /* -------------------------------------------------
+       HERO
+    ------------------------------------------------- */
+
+    .home-hero {
+        grid-template-columns: 1fr;
+
+        padding-top: 65px;
+
+        gap: 50px;
+    }
+
+    .hero-content h1 {
+        font-size: 48px;
+    }
+
+
+    /* -------------------------------------------------
+       FEATURES
+    ------------------------------------------------- */
+
+    .features-grid {
+        grid-template-columns:
+            repeat(2, 1fr);
+    }
+
+
+    /* -------------------------------------------------
+       WORKFLOW
+    ------------------------------------------------- */
+
+    .workflow {
+        flex-wrap: wrap;
+    }
+
+    .workflow-arrow {
+        display: none;
+    }
+
+
+    /* -------------------------------------------------
+       TECHNOLOGY
+    ------------------------------------------------- */
+
+    .technology-content {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+/* =====================================================
+   MOBILE
+===================================================== */
+
+@media (max-width: 650px) {
+
+    /* -------------------------------------------------
+       NAVBAR
+    ------------------------------------------------- */
+
+    .home-navbar {
+        min-height: 70px;
+
+        padding: 0 20px;
+    }
+
+    .home-logo {
+        gap: 9px;
+    }
+
+    .home-logo-icon {
+        width: 42px;
+        height: 42px;
+
+        border-radius: 10px;
+
+        font-size: 22px;
+    }
+
+    .home-logo h2 {
+        font-size: 18px;
+    }
+
+    .home-logo span {
+        display: none;
+    }
+
+    .mobile-menu-btn {
+        width: 40px;
+        height: 40px;
+
+        font-size: 21px;
+    }
+
+
+    /* -------------------------------------------------
+       MOBILE MENU
+    ------------------------------------------------- */
+
+    .mobile-nav-menu {
+        top: 70px;
+
+        padding:
+            15px 20px 20px;
+    }
+
+
+    /* -------------------------------------------------
+       HERO
+    ------------------------------------------------- */
+
+    .home-hero {
+        padding:
+            55px 20px
+            65px;
+
+        gap: 45px;
+    }
+
+    .hero-badge {
+        font-size: 12px;
+
+        padding:
+            7px 12px;
+    }
+
+    .hero-content h1 {
+        font-size: 38px;
+
+        letter-spacing: -1px;
+
+        line-height: 1.12;
+    }
+
+    .hero-content > p {
+        font-size: 16px;
+
+        line-height: 1.65;
+    }
+
+
+    /* -------------------------------------------------
+       HERO BUTTONS
+    ------------------------------------------------- */
+
+    .hero-buttons {
+        flex-direction: column;
+
+        gap: 10px;
+
+        margin-top: 25px;
+    }
+
+    .hero-primary-btn,
+    .hero-secondary-btn {
+        width: 100%;
+
+        box-sizing: border-box;
+
+        text-align: center;
+    }
+
+
+    /* -------------------------------------------------
+       HERO HIGHLIGHTS
+    ------------------------------------------------- */
+
+    .hero-highlights {
+        gap: 18px;
+
+        flex-wrap: wrap;
+
+        margin-top: 35px;
+    }
+
+    .hero-highlights div {
+        min-width: 85px;
+    }
+
+
+    /* -------------------------------------------------
+       HERO CARD
+    ------------------------------------------------- */
+
+    .hero-card {
+        padding: 20px;
+
+        border-radius: 16px;
+    }
+
+    .hero-emergency-card {
+        padding: 15px;
+
+        gap: 12px;
+    }
+
+    .hero-emergency-icon {
+        width: 45px;
+        height: 45px;
+
+        font-size: 22px;
+    }
+
+    .hero-emergency-card strong {
+        font-size: 14px;
+    }
+
+    .hero-emergency-card p {
+        font-size: 12px;
+    }
+
+    .hero-priority {
+        margin-top: 18px;
+
+        padding: 15px 0;
+    }
+
+    .hero-response-line {
+        margin-top: 20px;
+    }
+
+    .response-step {
+        min-width: 55px;
+    }
+
+    .response-step p {
+        font-size: 9px;
+    }
+
+
+    /* -------------------------------------------------
+       COMMON SECTIONS
+    ------------------------------------------------- */
+
+    .home-section,
+    .how-section,
+    .technology-section {
+        padding:
+            70px 20px;
+    }
+
+    .section-heading {
+        margin-bottom: 40px;
+    }
+
+    .section-heading h2,
+    .technology-content h2 {
+        font-size: 30px;
+
+        line-height: 1.2;
+    }
+
+    .section-heading p {
+        font-size: 14px;
+    }
+
+
+    /* -------------------------------------------------
+       FEATURES
+    ------------------------------------------------- */
+
+    .features-grid {
+        grid-template-columns: 1fr;
+
+        gap: 16px;
+    }
+
+    .feature-card {
+        padding: 25px;
+    }
+
+
+    /* -------------------------------------------------
+       WORKFLOW
+    ------------------------------------------------- */
+
+    .workflow {
+        flex-direction: column;
+
+        align-items: center;
+
+        gap: 35px;
+    }
+
+    .workflow-step {
+        width: 100%;
+
+        max-width: 280px;
+    }
+
+
+    /* -------------------------------------------------
+       TECHNOLOGY
+    ------------------------------------------------- */
+
+    .technology-content {
+        gap: 40px;
+    }
+
+    .technology-grid {
+        grid-template-columns: 1fr;
+
+        gap: 12px;
+    }
+
+
+    /* -------------------------------------------------
+       CTA
+    ------------------------------------------------- */
+
+    .home-cta {
+        padding:
+            70px 20px;
+    }
+
+    .home-cta h2 {
+        font-size: 30px;
+
+        line-height: 1.2;
+    }
+
+    .home-cta p {
+        font-size: 14px;
+    }
+
+
+    /* -------------------------------------------------
+       FOOTER
+    ------------------------------------------------- */
+
+    .home-footer {
+        padding:
+            40px 20px 25px;
+    }
+
+    .footer-brand {
+        align-items: flex-start;
+    }
+
+    .footer-links {
+        flex-wrap: wrap;
+
+        gap: 18px;
+
+        margin-top: 25px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 15px;
+    }
+
+    .footer-credit {
+        text-align: left;
+
+        white-space: normal;
+    }
+
+}
+
+
+/* =====================================================
+   SMALL MOBILE
+===================================================== */
+
+@media (max-width: 400px) {
+
+    .home-navbar {
+        padding:
+            0 15px;
+    }
+
+    .home-hero {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .hero-content h1 {
+        font-size: 34px;
+    }
+
+    .hero-highlights {
+        gap: 14px;
+    }
+
+    .hero-highlights div {
+        min-width: 75px;
+    }
+
+    .hero-card {
+        padding: 16px;
+    }
+
+    .home-section,
+    .how-section,
+    .technology-section {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .home-cta {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .home-footer {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+}

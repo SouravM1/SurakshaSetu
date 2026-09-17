@@ -1,0 +1,1029 @@
+/* =====================================================
+   ADMIN DASHBOARD
+===================================================== */
+
+.admin-page {
+  min-height: 100vh;
+  background: #f5f7fb;
+  padding: 32px 40px;
+  box-sizing: border-box;
+  color: #172033;
+}
+
+/* =====================================================
+   HEADER
+===================================================== */
+
+.admin-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.admin-header h1 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: #172033;
+}
+
+.admin-header p {
+  margin: 7px 0 0;
+  color: #718096;
+  font-size: 15px;
+}
+
+/* =====================================================
+   ADMIN PROFILE
+===================================================== */
+
+.admin-profile {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.admin-user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  line-height: 1.2;
+}
+
+.admin-user-info strong {
+  font-size: 15px;
+  color: #172033;
+}
+
+.admin-user-info span {
+  margin-top: 3px;
+  font-size: 13px;
+  color: #718096;
+  text-transform: capitalize;
+}
+
+/* =====================================================
+   LOGOUT
+===================================================== */
+
+.admin-logout-btn {
+  border: none;
+  background: #fff0f0;
+  color: #dc2626;
+
+  padding: 10px 18px;
+
+  border-radius: 8px;
+
+  cursor: pointer;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  transition: 0.2s;
+}
+
+.admin-logout-btn:hover {
+  background: #ffe0e0;
+}
+
+.admin-logout-btn:active {
+  transform: scale(0.98);
+}
+
+/* =====================================================
+   STATISTICS
+===================================================== */
+
+.admin-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 22px;
+
+  margin-bottom: 35px;
+}
+
+.stat-card {
+  background: #ffffff;
+
+  border: 1px solid #e5eaf2;
+  border-radius: 14px;
+
+  padding: 24px;
+
+  display: flex;
+  align-items: center;
+
+  gap: 18px;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.04);
+
+  transition: 0.2s;
+}
+
+.stat-card:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+/* =====================================================
+   STAT ICON
+===================================================== */
+
+.stat-icon {
+  width: 54px;
+  height: 54px;
+
+  min-width: 54px;
+
+  border-radius: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 25px;
+}
+
+.stat-icon.blue {
+  background: #eaf2ff;
+}
+
+.stat-icon.red {
+  background: #fff0f0;
+}
+
+.stat-icon.green {
+  background: #eaf9f0;
+}
+
+/* =====================================================
+   STAT TEXT
+===================================================== */
+
+.stat-card p {
+  margin: 0 0 5px;
+
+  color: #718096;
+
+  font-size: 14px;
+}
+
+.stat-card h2 {
+  margin: 0;
+
+  font-size: 28px;
+
+  color: #172033;
+}
+
+/* =====================================================
+   REPORT SECTION
+===================================================== */
+
+.reports-section {
+  margin-top: 10px;
+}
+
+.section-heading {
+  margin-bottom: 20px;
+}
+
+.section-heading h2 {
+  margin: 0;
+
+  font-size: 24px;
+
+  color: #172033;
+}
+
+.section-heading p {
+  margin: 6px 0 0;
+
+  color: #718096;
+
+  font-size: 14px;
+}
+
+/* =====================================================
+   REPORT LIST
+===================================================== */
+
+.reports-list {
+  display: flex;
+  flex-direction: column;
+
+  gap: 18px;
+}
+
+/* =====================================================
+   REPORT CARD
+===================================================== */
+
+.report-card {
+  background: #ffffff;
+
+  border: 1px solid #e5eaf2;
+  border-radius: 14px;
+
+  padding: 25px;
+
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 30px;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.04);
+
+  transition: 0.2s;
+
+  box-sizing: border-box;
+}
+
+.report-card:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.07);
+}
+
+/* =====================================================
+   REPORT LEFT
+===================================================== */
+
+.report-left {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 18px;
+
+  flex: 1;
+
+  min-width: 0;
+}
+
+.report-icon {
+  width: 58px;
+  height: 58px;
+
+  min-width: 58px;
+
+  background: #fff0f0;
+
+  border-radius: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 27px;
+}
+
+/* =====================================================
+   REPORT DETAILS
+===================================================== */
+
+.report-details {
+  min-width: 0;
+}
+
+.report-details h3 {
+  margin: 0 0 6px;
+
+  font-size: 20px;
+
+  font-weight: 700;
+
+  color: #172033;
+
+  text-transform: capitalize;
+}
+
+.report-description {
+  margin: 0 0 8px;
+
+  color: #4a5568;
+
+  font-size: 15px;
+
+  line-height: 1.5;
+
+  word-break: break-word;
+}
+
+.report-location {
+  margin: 0 0 6px;
+
+  color: #718096;
+
+  font-size: 14px;
+
+  word-break: break-word;
+}
+
+.report-date {
+  margin: 0;
+
+  color: #a0aec0;
+
+  font-size: 12px;
+}
+
+/* =====================================================
+   REPORT RIGHT
+===================================================== */
+
+.report-right {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: flex-end;
+
+  gap: 18px;
+
+  flex-shrink: 0;
+}
+
+/* =====================================================
+   PRIORITY
+===================================================== */
+
+.priority {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: flex-start;
+
+  gap: 4px;
+
+  min-width: 90px;
+}
+
+.priority span {
+  font-size: 12px;
+
+  color: #718096;
+}
+
+/*
+   IMPORTANT:
+   The priority badge must only occupy the
+   width of the actual priority text.
+*/
+
+.priority strong {
+  display: inline-flex;
+
+  width: max-content;
+
+  min-width: 0;
+
+  max-width: 100%;
+
+  padding: 2px 8px;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  line-height: 1.2;
+
+  color: #172033;
+
+  text-transform: capitalize;
+
+  box-sizing: border-box;
+
+  border-radius: 2px;
+
+  white-space: nowrap;
+}
+
+/* =====================================================
+   PRIORITY COLORS
+===================================================== */
+
+.priority strong.priority-low {
+  color: #16a34a;
+
+  background: #dcfce7;
+}
+
+.priority strong.priority-medium {
+  color: #d97706;
+
+  background: #fef3c7;
+}
+
+.priority strong.priority-high {
+  color: #dc2626;
+
+  background: #fee2e2;
+}
+
+.priority strong.priority-critical {
+  color: #dc2626;
+
+  background: #fecaca;
+}
+
+/* =====================================================
+   STATUS BADGE
+===================================================== */
+
+.status-badge {
+  min-width: 85px;
+
+  text-align: center;
+
+  padding: 8px 14px;
+
+  border-radius: 20px;
+
+  font-size: 13px;
+
+  font-weight: 600;
+
+  text-transform: capitalize;
+
+  white-space: nowrap;
+
+  box-sizing: border-box;
+}
+
+/* =====================================================
+   PENDING
+===================================================== */
+
+.status-badge.pending {
+  background: #fff6e5;
+
+  color: #d97706;
+}
+
+/* =====================================================
+   ASSIGNED
+===================================================== */
+
+.status-badge.assigned {
+  background: #eaf2ff;
+
+  color: #2563eb;
+}
+
+/* =====================================================
+   IN PROGRESS
+===================================================== */
+
+.status-badge.in_progress {
+  background: #f0eaff;
+
+  color: #7c3aed;
+}
+
+/* =====================================================
+   RESOLVED
+===================================================== */
+
+.status-badge.resolved {
+  background: #eaf9f0;
+
+  color: #16a34a;
+}
+
+/* =====================================================
+   ASSIGNED RESPONDER
+===================================================== */
+
+.assigned-responder {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 4px;
+
+  min-width: 130px;
+
+  max-width: 180px;
+}
+
+.assigned-responder span {
+  font-size: 12px;
+
+  color: #718096;
+}
+
+.assigned-responder strong {
+  font-size: 14px;
+
+  font-weight: 600;
+
+  color: #2563eb;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+/* =====================================================
+   RESPONDER INFO
+===================================================== */
+
+.responder-info {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 4px;
+
+  min-width: 130px;
+
+  max-width: 180px;
+}
+
+.responder-info span {
+  font-size: 12px;
+
+  color: #718096;
+}
+
+.responder-info strong {
+  font-size: 14px;
+
+  font-weight: 600;
+
+  color: #2563eb;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+/* =====================================================
+   BACKWARD COMPATIBILITY
+   If your JSX uses assigned-responder-display
+===================================================== */
+
+.assigned-responder-display {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 4px;
+
+  min-width: 130px;
+
+  max-width: 180px;
+}
+
+.assigned-responder-display span {
+  font-size: 12px;
+
+  color: #718096;
+}
+
+.assigned-responder-display strong {
+  font-size: 14px;
+
+  font-weight: 600;
+
+  color: #2563eb;
+
+  white-space: nowrap;
+
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+}
+
+/* =====================================================
+   RESPONDER ASSIGNMENT
+===================================================== */
+
+.assign-section {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 8px;
+
+  min-width: 180px;
+}
+
+/* =====================================================
+   RESPONDER SELECT
+===================================================== */
+
+.assign-section select {
+  width: 180px;
+
+  padding: 9px 12px;
+
+  border: 1px solid #cbd5e1;
+
+  border-radius: 8px;
+
+  background: #ffffff;
+
+  color: #172033;
+
+  font-size: 14px;
+
+  cursor: pointer;
+
+  box-sizing: border-box;
+
+  transition: 0.2s;
+}
+
+.assign-section select:hover {
+  border-color: #94a3b8;
+}
+
+.assign-section select:focus {
+  outline: none;
+
+  border-color: #2563eb;
+
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.1);
+}
+
+.assign-section select:disabled {
+  background: #f8fafc;
+
+  color: #94a3b8;
+
+  cursor: not-allowed;
+}
+
+/* =====================================================
+   ASSIGN BUTTON
+===================================================== */
+
+.assign-btn {
+  width: 180px;
+
+  padding: 9px 14px;
+
+  border: none;
+
+  border-radius: 8px;
+
+  background: #2563eb;
+
+  color: #ffffff;
+
+  font-size: 14px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+.assign-btn:hover {
+  background: #1d4ed8;
+}
+
+.assign-btn:active {
+  transform: scale(0.98);
+}
+
+.assign-btn:disabled {
+  opacity: 0.6;
+
+  cursor: not-allowed;
+}
+
+/* =====================================================
+   RESOLVE BUTTON
+===================================================== */
+
+.resolve-btn {
+  min-width: 140px;
+
+  padding: 11px 16px;
+
+  border: none;
+
+  border-radius: 8px;
+
+  background: #16a34a;
+
+  color: #ffffff;
+
+  font-size: 14px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+
+  white-space: nowrap;
+}
+
+.resolve-btn:hover {
+  background: #15803d;
+}
+
+.resolve-btn:active {
+  transform: scale(0.98);
+}
+
+.resolve-btn:disabled {
+  opacity: 0.6;
+
+  cursor: not-allowed;
+}
+
+/* =====================================================
+   LOADING / EMPTY
+===================================================== */
+
+.loading-box,
+.empty-box {
+  background: #ffffff;
+
+  border: 1px solid #e5eaf2;
+
+  border-radius: 14px;
+
+  padding: 40px;
+
+  text-align: center;
+
+  color: #718096;
+
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.03);
+}
+
+/* =====================================================
+   RESPONSIVE - TABLET
+===================================================== */
+
+@media (max-width: 1200px) {
+  .admin-page {
+    padding: 28px 25px;
+  }
+
+  .report-card {
+    align-items: flex-start;
+  }
+
+  .report-right {
+    flex-wrap: wrap;
+
+    justify-content: flex-end;
+  }
+
+  .responder-info,
+  .assigned-responder,
+  .assigned-responder-display {
+    min-width: 120px;
+  }
+}
+
+/* =====================================================
+   RESPONSIVE - 1000px
+===================================================== */
+
+@media (max-width: 1000px) {
+  .report-card {
+    flex-direction: column;
+
+    align-items: stretch;
+
+    gap: 25px;
+  }
+
+  .report-right {
+    width: 100%;
+
+    justify-content: flex-start;
+
+    flex-wrap: wrap;
+  }
+}
+
+/* =====================================================
+   RESPONSIVE - 900px
+===================================================== */
+
+@media (max-width: 900px) {
+  .admin-page {
+    padding: 25px 20px;
+  }
+
+  /* Header */
+
+  .admin-header {
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 20px;
+  }
+
+  .admin-profile {
+    width: 100%;
+
+    justify-content: space-between;
+  }
+
+  /* Statistics */
+
+  .admin-stats {
+    grid-template-columns: 1fr;
+  }
+
+  /* Report */
+
+  .report-card {
+    flex-direction: column;
+
+    align-items: stretch;
+
+    gap: 25px;
+  }
+
+  .report-right {
+    width: 100%;
+
+    justify-content: flex-start;
+
+    flex-wrap: wrap;
+  }
+
+  /* Assignment */
+
+  .assign-section {
+    min-width: 180px;
+  }
+}
+
+/* =====================================================
+   RESPONSIVE - 600px
+===================================================== */
+
+@media (max-width: 600px) {
+  .admin-page {
+    padding: 20px 15px;
+  }
+
+  /* Header */
+
+  .admin-header h1 {
+    font-size: 26px;
+  }
+
+  .admin-header p {
+    font-size: 14px;
+  }
+
+  /* Profile */
+
+  .admin-profile {
+    gap: 12px;
+  }
+
+  .admin-user-info {
+    align-items: flex-start;
+  }
+
+  /* Report */
+
+  .report-left {
+    flex-direction: column;
+  }
+
+  .report-right {
+    flex-direction: column;
+
+    align-items: stretch;
+
+    width: 100%;
+
+    gap: 14px;
+  }
+
+  /* Priority */
+
+  .priority {
+    width: 100%;
+
+    min-width: 0;
+  }
+
+  .priority strong {
+    width: max-content;
+  }
+
+  /* Responder */
+
+  .assigned-responder,
+  .assigned-responder-display {
+    width: 100%;
+
+    min-width: 0;
+
+    max-width: none;
+  }
+
+  .responder-info {
+    width: 100%;
+
+    min-width: 0;
+
+    max-width: none;
+  }
+
+  .responder-info strong,
+  .assigned-responder strong,
+  .assigned-responder-display strong {
+    white-space: normal;
+
+    overflow: visible;
+
+    text-overflow: clip;
+  }
+
+  /* Status */
+
+  .status-badge {
+    width: fit-content;
+  }
+
+  /* Assignment */
+
+  .assign-section {
+    width: 100%;
+
+    min-width: 0;
+  }
+
+  .assign-section select {
+    width: 100%;
+  }
+
+  .assign-btn {
+    width: 100%;
+  }
+
+  /* Resolve */
+
+  .resolve-btn {
+    width: 100%;
+  }
+}
+
+/* =====================================================
+   VERY SMALL SCREENS
+===================================================== */
+
+@media (max-width: 400px) {
+  .admin-page {
+    padding: 16px 12px;
+  }
+
+  .stat-card {
+    padding: 18px;
+  }
+
+  .report-card {
+    padding: 18px;
+  }
+
+  .report-details h3 {
+    font-size: 18px;
+  }
+
+  .report-description {
+    font-size: 14px;
+  }
+
+  .report-location {
+    font-size: 13px;
+  }
+
+  .admin-profile {
+    align-items: flex-start;
+  }
+
+  .admin-logout-btn {
+    padding: 9px 14px;
+  }
+}
